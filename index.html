@@ -5,7 +5,7 @@
 <script>
 $(document).ready(function(){
   $("button").click(function(){
-    $.getJSON("aws.js", function(result){
+    $.getJSON("aws.json", function(result){
       $.each(result, function(i, field){
         $("div").append(field + " ");
       });
