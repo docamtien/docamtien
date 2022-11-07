@@ -3,27 +3,32 @@
 
 <body>
     <div id="content"></div>
- 
+
 
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
     <script>
         var myItems;
 
+        var myItems;
+
         $.getJSON('https://docamtien.github.io/aws.json', function(data) {
             var data = data.Question;
-
+            var text = "";
             for (let i = 0; i < data.length; i++) {
                 var tm = 0;
 
-                $( "#content" ).append( "<h3>"+ data[i]['QuestionNumber'] + ") " + data[i]['QuestionContent']+"</h3><p id='QuestionNumber_"+i+"'></p>" )
-                    for (let j = 0; j < data[i]['Option'].length; j++) {
-                        tm=i+j;
-                        $("#QuestionNumber_"+i).append( "<p id='Option"+tm+"'>"+ data[i]['Option'][j] +"</p>" )
-                        
-                    }
-                $("#Option"+tm).append( "<p> Right Answer : <strong>"+ data[i]['RightAnswer'] +"</strong></p>" );
-                // .append( "<p>"+ data[0]['Explanation'] +"</p>" );
+                // $( "#content" ).append( "<h3>"+ data[i]['QuestionNumber'] + ") " + data[i]['QuestionContent']+"</h3><p id='QuestionNumber_"+i+"'></p>" )
+                text += "<h3>" + data[i]['QuestionNumber'] + ") " + data[i]['QuestionContent'] + "</h3>";
+                for (let j = 0; j < data[i]['Option'].length; j++) {
+                    tm = i + j;
+                    // $("#QuestionNumber_"+i).append( "<p id='Option"+tm+"'>"+ data[i]['Option'][j] +"</p>" );
+                    text += "<p id='Option" + tm + "'>" + data[i]['Option'][j] + "</p>";
+
+                }
+                text += "<p> Right Answer : <strong>" + data[i]['RightAnswer'] + "</strong></p>";
+
             }
+            $("#content").append(text)
 
         });
     </script>
