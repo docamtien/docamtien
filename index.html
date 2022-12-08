@@ -24,7 +24,7 @@
     </main>
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
     <script>
-       
+
 
         $("#check").click(function () {
             $(".right").css({ "backgroundColor": "greenyellow" });
@@ -40,7 +40,7 @@
             var data = data.Question;
             var text = '';
             var myarray = [];
-   
+
             for (let i = 0; i < data.length; i++) {
                 text += '<div class="row">';
                 text += '<div class="col-md-12">';
@@ -102,25 +102,29 @@
                 myarray.push(text);
 
             }
-            // console.log(myarray);
-            var aa = '';
-            var myarray = myarray[Math.floor(Math.random()*myarray.length)];
-            for (let k = 0; k < myarray.length; k++) {
-                aa += myarray[k];
-            }
+            // var arr = [];
+            // while (arr.length < 219) {
+            //     var r = Math.floor(Math.random() * 219) + 1;
+            //     if (arr.indexOf(r) === -1) arr.push(r);
+            // }
+            // var aa = '';
+            // for (let k = 0; k < myarray.length; k++) {
+            //     console.log(myarray[arr[k]]);
+            //     aa += myarray[arr[k]];
+            // }
 
-            $("#content").append(aa);
+            $("#content").append(text);
 
             $('input[type="checkbox"]').change(function () {
-            if ($(this).is(":checked")) {
-                // alert($(this).attr('id'))
-                // return;
-                $("label#"+$(this).attr('id')).css({ "backgroundColor": "pink" });
-            }else{
-                $("label#"+$(this).attr('id')).css({ "backgroundColor": "white" });
+                if ($(this).is(":checked")) {
+                    // alert($(this).attr('id'))
+                    // return;
+                    $("label#" + $(this).attr('id')).css({ "backgroundColor": "pink" });
+                } else {
+                    $("label#" + $(this).attr('id')).css({ "backgroundColor": "white" });
 
-            }
-        });
+                }
+            });
 
         });
     </script>
