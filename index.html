@@ -38,11 +38,11 @@
 
         $.getJSON('https://docamtien.github.io/aws.json', function (data) {
             var data = data.Question;
-            var text = '';
             var myarray = [];
 
             for (let i = 0; i < data.length; i++) {
-                text += '<div class="row">';
+                var text = '';
+                text += '<div class="'+data[i]['QuestionNumber']+' row">';
                 text += '<div class="col-md-12">';
                 var tm = 0;
 
@@ -102,18 +102,18 @@
                 myarray.push(text);
 
             }
-            // var arr = [];
-            // while (arr.length < 219) {
-            //     var r = Math.floor(Math.random() * 219) + 1;
-            //     if (arr.indexOf(r) === -1) arr.push(r);
-            // }
-            // var aa = '';
-            // for (let k = 0; k < myarray.length; k++) {
-            //     console.log(myarray[arr[k]]);
-            //     aa += myarray[arr[k]];
-            // }
+            var arr = [];
+            while (arr.length < 219) {
+                var r = Math.floor(Math.random() * 219) + 1;
+                if (arr.indexOf(r) === -1) arr.push(r);
+            }
+            var rand_ask = '';
+            for (let k = 0; k < myarray.length; k++) {
+                rand_ask += '<p><strong>Number: '+(k+1)+'</strong></p>';
+                rand_ask += myarray[arr[k]];
+            }
 
-            $("#content").append(text);
+            $("#content").append(rand_ask);
 
             $('input[type="checkbox"]').change(function () {
                 if ($(this).is(":checked")) {
