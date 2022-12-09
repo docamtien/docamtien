@@ -1,0 +1,3128 @@
+{
+    "Question": [
+        {
+            "QuestionNumber": 1,
+            "QuestionContent": "Based on the chart, what is the current status of the iteration when comparing story points planned versus\ncompleted?",
+            "Option": [
+                "A.  The iteration is in jeopardy.",
+                "B.  The team has removed scope.",
+                "C.  The iteration is ahead of schedule.",
+                "D.  The team\u0027s velocity is constant."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": [
+                "C.  The iteration is ahead of schedule."
+            ]
+        },
+        {
+            "QuestionNumber": 2,
+            "QuestionContent": "During a retrospective meeting, a team develops a large list of initiatives All will have a positive impact and\nimprove team performance What should the agile coach do next?",
+            "Option": [
+                "A.  Positively acknowledge the list and share it with management",
+                "B.  Immediately have the team implement the initiatives",
+                "C.  Help the team choose one or two initiatives for immediate implementation.",
+                "D.  Ask the team to choose and implement the most complex initiative\n1 of 72Practice Test PMI - PMI-ACP"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 3,
+            "QuestionContent": "What is the first thing an agile development team should do when planning an iteration?",
+            "Option": [
+                "A.  Assign the tasks to one team member.",
+                "B.  Separate the stories into tasks.",
+                "C.  Estimate the stories\u0027 tasks.",
+                "D.  Help establish the next sprint\u0027s goal."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 4,
+            "QuestionContent": "An organization initiates a pilot project to introduce agile methodology for the successful delivery of projects.\nWhat should the project manager do to share this project\u0027s knowledge and learning with wider organizational\nbusiness groups?",
+            "Option": [
+                "A.  invite people from across the organization to attend daily stand ups",
+                "B.  invite people from across the organization to attend retrospectives",
+                "C.  Invite people from across the organization to attend the release meeting and project retrospectives",
+                "D.  Regularly meet with people across the organization to share the project\u0027s lessons learned and best\npractices"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 5,
+            "QuestionContent": "A team working with a new technology faces a significant amount of uncertainty about its ability to deliver\nstories due to technical issues. What should the team do?",
+            "Option": [
+                "A.  Capture risks and make them visible, and use a burn down chart to focus on reducing risks early in the\nproject.",
+                "B.  Ask the scrum master to extend the sprint\u0027s duration to allow more time to work through technical\nissues.",
+                "C.  Place the impacted stories on the story board, and use daily stand ups to make the product owner aware\nof the technical issues.",
+                "D.  Seek guidance from the development manager.\n2 of 72Practice Test PMI - PMI-ACP"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 6,
+            "QuestionContent": "An agile project has three more iterations before the release. There is a lot of report functionality to be created\nand defects to be cleared. During a daily scrum, a team member suggests a timebox spike to find a more\nefficient way to deliver reports.\nWhat should the project leader do?",
+            "Option": [
+                "A.  Encourage the team to self-organize and determine how to best complete their existing work and this\nspike.",
+                "B.  Encourage the team to complete their just existing work since the team velocity indicates they are\nalready struggling to meet the release goal.",
+                "C.  Direct the team to defer the spike until the next release and add the action on the backlog for\nprioritization.",
+                "D.  Direct the team to work on the spike immediately given the importance of reporting functionality to\ncomplete the iteration."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 7,
+            "QuestionContent": "During an iteration, an agile team discovers infrastructure requirements that were not initially considered.\nWhat should the team do to effectively manage this?",
+            "Option": [
+                "A.  Rework the iteration scope to accommodate these requirements.",
+                "B.  Add these requirements into the product backlog for future consideration.",
+                "C.  Raise the discovery of these requirements as an issue, and escalate to management.",
+                "D.  Immediately start working on these requirements."
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 8,
+            "QuestionContent": "A product owner asks a newly formed scrum team how many story points will be completed m a sprint What\nshould the scrum master do?",
+            "Option": [
+                "A.  Engage the team to determine the sprint velocity based on previous agile projects",
+                "B.  Average the sprint velocity based on input from ream members\n3 of 72Practice Test PMI - PMI-ACP",
+                "C.  Share the sprint velocity obtained from the sponsor with the team",
+                "D.  Run multiple sprints before determining the sprint velocity with the team."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 9,
+            "QuestionContent": "An agile team provides feedback that user stories include insufficient details to understand the requirements.\nWhat should the agile practitioner do?",
+            "Option": [
+                "A.  Coach the product owner to update only the acceptance criteria.",
+                "B.  Instruct the agile team to fix the user stories during the next retrospective.",
+                "C.  Facilitate a user story workshop with the agile team.",
+                "D.  Inform the product owner\u0027s manager that the work items provide insufficient detail."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 10,
+            "QuestionContent": "A legal department representative contacts the scrum master because white the projects budget has been\nmaintained it has exceeded its original contracted time and scope. What should the scrum master do?",
+            "Option": [
+                "A.  Meet with the team to gam alignment with the legal department\u0027s need to stay within the contracted time\nand scope",
+                "B.  Work with the customer to narrow me scope",
+                "C.  Share the project\u0027s trajectory with the legal department",
+                "D.  Meet with the legal department to help them understand that the customer and the team are satisfied with\nthe time and deliverables"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 11,
+            "QuestionContent": "Following a successful product release, senior management asks an agile team how to improve the value of the\nproduct for the next release. What should the team do?",
+            "Option": [
+                "A.  Conduct frequent demos and obtain feedback from users throughout the development of the next release.",
+                "B.  Inform senior management that since the product was successfully released, the project is considered\ndelivered and should be closed.\n4 of 72Practice Test PMI - PMI-ACP",
+                "C.  Request additional budget to implement a Scrum of Scrums approach to scale the teams and add\ncapacity.",
+                "D.  Implement a better definition of done to ensure that continuous integration processes are managed\neffectively."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 12,
+            "QuestionContent": "During a team meeting, members who are subject matter experts (SMEs) mention that they are continuously\nworking on repetitive tasks, which has lowered motivation. What should the agile practitioner do?",
+            "Option": [
+                "A.  Organize a team-building activity to improve team morale.",
+                "B.  Have team members work in pairs to learn from each other and develop new skills.",
+                "C.  Ask team members to perform a value stream analysis of their activities.",
+                "D.  Add more resources to the team to help with the tasks."
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 13,
+            "QuestionContent": "When introducing agile processes to a company, a quality assurance (QA) manager resists and believes that\nthe switch to agile will remove quality controls and documents How should the agile practitioner address this\nconcern?",
+            "Option": [
+                "A.  Educate the QA manager that in agile, quality is integrated from the begining to end of the project.",
+                "B.  Write backlog items that include QA as part of the description.",
+                "C.  Ask for the current QA documents and incorporate them into the technical debt backlog.",
+                "D.  Ask the product owner to write tests and QA controls into the acceptance criteria"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 14,
+            "QuestionContent": "An agile team has been given a complex project with a basic set of requirements which need further\nelaboration and review. How should the team iteratively build out the backlog of requirements with the\nstakeholders?",
+            "Option": [
+                "A.  Conduct a requirements gathering workshop.",
+                "B.  Deliver the basic requirements iteratively.\n5 of 72Practice Test PMI - PMI-ACP",
+                "C.  Have the product owner fill out the requirements backlog.",
+                "D.  Have the stakeholders fill out the backlog before starting the project."
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 15,
+            "QuestionContent": "The risk profile of a project has increased beyond the upper threshold of tolerance. The product owner and\nproject leader meet to discuss an approach for dealing with this\nWhat should the team do next?",
+            "Option": [
+                "A.  Add risk mitigation tasks to the backlog, then prioritize in current and upcoming sprints.",
+                "B.  Add risk mitigation time to each requirement.",
+                "C.  Apply the 80/20 rule, reserving 20 percent of each sprints capacity for risk mitigation.",
+                "D.  Hold all risks until they become issues, then add issue resolution tasks to the product backlog"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 16,
+            "QuestionContent": "An agile practitioner notices that team members are disengaged. As a result, the team\u0027s velocity has decreased.\nWhat should the agile practitioner do to get the team back on track?",
+            "Option": [
+                "A.  Escalate the issue to the project sponsor.",
+                "B.  Remove stories to increase velocity.",
+                "C.  Hold a standup to address the issue.",
+                "D.  Facilitate a team retrospective."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 17,
+            "QuestionContent": "An agile project leader is delivering a team kick-off session. The first exercise is a \u0022Life Timeline\u0022 - a\nstory-telling exercise where each team member tells their life story, explains how they experienced the highs\nand lows of their journey, and identifies their fears and hopes.\nWhat is the project leader trying to create?",
+            "Option": [
+                "A.  A safe space for team members to learn to trust one another, leading to collaborative relationships.\n6 of 72Practice Test PMI - PMI-ACP",
+                "B.  A safe space for team members to learn to be vulnerable, leading to high performance relationships.",
+                "C.  A safe space for team members to learn to share, leading to collaborative relationships.",
+                "D.  A safe space for team members to learn about each other\u0027s weaknesses and strengths."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 18,
+            "QuestionContent": "A project team realizes that an important task on the iteration backlog will take more time than originally\nestimated. What should the project team do?",
+            "Option": [
+                "A.  Continue working on the task until it is completed.",
+                "B.  Remove the task owner from the project team.",
+                "C.  Add resources to reduce time to task completion.",
+                "D.  Stop working on the task and include it in the next iteration."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 19,
+            "QuestionContent": "During a sprint, the team encounters a technical problem that becomes an impediment to completing two\nstories. What should the scrum master do?",
+            "Option": [
+                "A.  Ask the lead developer to identify a solution, and then share the details with the team.",
+                "B.  Ask a technical manager or architect to determine a solution to the problem.",
+                "C.  Work with the product owner to add a spike to the next sprint to identify a solution.",
+                "D.  Create a collaborative team environment so that the team can explore a solution together."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 20,
+            "QuestionContent": "Stakeholders have conflicting requirements, and the product owner is struggling to decide which user stories to\nwrite. What should the product owner do?",
+            "Option": [
+                "A.  Ask the agile practitioner to help write the user stories.",
+                "B.  Ask the agile team to facilitate a story-writing workshop.",
+                "C.  Ask subject matter experts (SMEs) to help write the user stories.\n7 of 72Practice Test PMI - PMI-ACP",
+                "D.  Ask the agile practitioner to facilitate a story-writing workshop."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 21,
+            "QuestionContent": "A member of the development team is working on a prioritized non-functional requirement involving\nintegrating with a 3rd party system This integration has not been done before on the project.\nWhat should the project leader suggest?",
+            "Option": [
+                "A.  Develop and document a detailed architectural design peer review with the development team, and\nimplement/test",
+                "B.  Develop the functional requirements of the solution first before any non-functional requirement, as they\nprovide more customer value.",
+                "C.  Discuss the integration requirement with the product owner and negotiate it to be lower on the backlog\nto focus on the minimal marketable feature",
+                "D.  Develop and test the implementation approach and demonstrate it at the next sprint review to collect\nfeedback."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 22,
+            "QuestionContent": "Midway through a sprint. a scrum team member advises the team of a new requirement Dial may change the\ninitial scope What should the team do?",
+            "Option": [
+                "A.  Work on requirements that (he product owner may have overlooked",
+                "B.  Record the scope creep m the change management tog",
+                "C.  Add the new requirement to the product backlog",
+                "D.  Ask the scrum master to secure additional time and resources"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 23,
+            "QuestionContent": "A learn using Kanban identifies mat their cycle time has significant variation After brainstorming, the team\ndetermines that the root cause is the stones\u0027 varying sizes and risks What should the team do?",
+            "Option": [
+                "A.  Reduce work in progress (W1P) limits to accommodate slack for riskier stories\n8 of 72Practice Test PMI - PMI-ACP",
+                "B.  Create a triage step on the Kanban board to pre-identify risky stones",
+                "C.  Set a policy lo break down stories larger than a specified complexity, then adjust the WIP",
+                "D.  Create a dedicated overflow swimlane on the Kanban board for stones that are loo large"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 24,
+            "QuestionContent": "A team is transitioning from a predictive approach to an agile approach. Historically, the team has delivered\nwork products that did not meet customer expectations. What agile practice can help the team to alleviate this?",
+            "Option": [
+                "A.  Test-driven development (TDD)",
+                "B.  Clear definition of done and regular demos",
+                "C.  Collaborative team planning games",
+                "D.  Consistent team velocity"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 25,
+            "QuestionContent": "What should a learn do when they complete ail sprint goals earlier than expected?",
+            "Option": [
+                "A.  Begin working on an item in the backlog",
+                "B.  Ask the scrum master to select an item from the backlog on which to work",
+                "C.  Ask the product owner to select an item from the backlog on which to work",
+                "D.  Jointly decide with the scrum master on an item from the backlog on which to work"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 26,
+            "QuestionContent": "An agile team notices that the same problem continue to occur during multiple iterations. Several team\nmembers have suggestions to fix the problem.\nWhat is the proper agile approach to handle this?",
+            "Option": [
+                "A.  Hold frequent retrospectives and share the responsibility for making changes",
+                "B.  Understand that this is the nature of innovative business and strive 10 work harder\n9 of 72Practice Test PMI - PMI-ACP",
+                "C.  Collect team member feedback and discuss them privately with the product owner",
+                "D.  Conduct a team-bulking exercise to increase trust among the team members"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 27,
+            "QuestionContent": "An agile team lead is assigned to a project that must ensure data security. What should the team lead do to\nguarantee that security, as a non-functional requirement, is managed throughout the project?",
+            "Option": [
+                "A.  Include security concerns on the agenda for every meeting.",
+                "B.  Request that a security expert be added to the team.",
+                "C.  Add security as a non-functional requirement to the risk register, and review regularly.",
+                "D.  Ensure that planning and prioritizing includes consideration of security requirements."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 28,
+            "QuestionContent": "The amount of information captured in the project\u0027s defects is varying within the development team. Team\nmembers are becoming frustrated with the defect quality inconsistencies and the frequent clarification\nrequired.\nWhat should be done to address the issue?",
+            "Option": [
+                "A.  Stop the current iteration to discuss defect quality issues and explore solutions.",
+                "B.  Discuss and explore solutions in the next planning meeting and take corrective actions as required.",
+                "C.  Generate insights at the next retrospective and adjust processes as decided by the team.",
+                "D.  Assign corrective actions to the backlog for the team to identify the mandatory defect information."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 29,
+            "QuestionContent": "A project is starling and the type of wont is complex and suitable for agile in assessing the learn members it\nappears that co-location would be a challenge.\nWhat should the agile practitioner do?",
+            "Option": [
+                "A.  Select and implement collaboration tools to augment team interactions\n10 of 72Practice Test PMI - PMI-ACP",
+                "B.  Provide each geographical area with their own product owner and divide the work between the teams",
+                "C.  increase the number of requirements documents and ensure they are dearly communicated",
+                "D.  After several sprints calcuate velocity based on primary learn location and use secondary team as\nreserve"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 30,
+            "QuestionContent": "A new CIO advocates an agile framework for new IT projects, but the team has reservations. How should the\nCIO ensure that the team will be aligned with this?",
+            "Option": [
+                "A.  Obtain executive team buy-in by conducting a meeting to present the advantages of agile principles and\nprocesses.",
+                "B.  Issue a memo of understanding that agile principles should be implemented for all new projects.",
+                "C.  Introduce agile principles and processes, then make the change an experiment to obtain buy-in.",
+                "D.  Require all staff and management to attend agile training and adhere to its principles."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 31,
+            "QuestionContent": "The scrum master for a large project must provide an estimate of what can be delivered in six months. What\nshould the scrum master do?",
+            "Option": [
+                "A.  Commit to a specific feature set for delivery.",
+                "B.  Explain that a commitment will be provided after planning.",
+                "C.  Have the team estimate in story points to commit to a specific set of features.",
+                "D.  Use the team\u0027s historical velocity to calculate a range of features that can be delivered."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 32,
+            "QuestionContent": "Outing planning for the next iteration an agile team identifies most of the story points that are expected to be\ndelivered. How should an agile practitioner work with the team to help identity the iteration\u0027s remaining\nscope?",
+            "Option": [
+                "A.  Convince the learn to stop planning and keep the size small\n11 of 72Practice Test PMI - PMI-ACP",
+                "B.  identify the technically minimal and achievable tasks",
+                "C.  Refer to the remaining prioritized backlog items",
+                "D.  Select some of the smallest items from the backlog"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 33,
+            "QuestionContent": "The team is in the middle of an iteration and there is an urgent request for a small change to be introduced to\nthe committed scope Unless this change is accepted there is no value to the customers during this iteration\nWhat must the agile practitioner do?",
+            "Option": [
+                "A.  Add the new change request as a new user story in the product backlog for the upcoming iteration",
+                "B.  Evaluate the impact of the change request and let the team and product owner decide and re-prioritize\nbased on value",
+                "C.  Recommend cancelling the current iteration and plan the change request into the next iteration",
+                "D.  Recommend that the product owner add this change request as a user story to me backlog tor the current\naeration"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 34,
+            "QuestionContent": "Trend analysis shows that velocity is significantly higher than predicted and the release can be completed one\nmonth ahead of schedule. The team recommends changing the end date to reflect this What should the agile\npractitioner do?",
+            "Option": [
+                "A.  Jointly meet with the team and product owner to discuss options and determine the end date",
+                "B.  Announce that the team has exceeded the predicted velocity and that the end date will be earner than\nplanned",
+                "C.  Ask the product owner to include additional features in the product backlog then replay subsequent\niterations",
+                "D.  Ask the team to decrease velocity to meet contractual obligations and document this decision"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 35,
+            "QuestionContent": "A customer and a product delivery team meet to discuss a products attributes goals, expectations, hypothesis,\nand high-level needs What is a benefit of this meeting?\n12 of 72Practice Test PMI - PMI-ACP",
+            "Option": [
+                "A.  The team will learn how its contribution will create product value",
+                "B.  It will enable learn acceptance of client priorities",
+                "C.  It will enable the team to see the entire project in one glance",
+                "D.  It will enable the team to ask any questions to the customer upfront"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 36,
+            "QuestionContent": "The product owner of an agile project is frustrated because the team is unable to deliver as many features as\nexpected. The product owner asks the team to reduce test-automation levels, since the quality assurance team\nwill test the product at project completion. The product owner expects that more features will be delivered in\neach iteration using this approach\nWhat should the agile practitioner do?",
+            "Option": [
+                "A.  Ask the opinion of key stakeholders and the client to ensure the correct approach is being used",
+                "B.  Work with the team to use this approach and request a quality assurance iteration after every three\niterations",
+                "C.  Propose to completely eliminate test automation, since this is a quality assurance function",
+                "D.  Suggest merging the quality assurance and delivery teams to enhance each iteration\u0027s test-automation\nlevels and reduce redundancy"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 37,
+            "QuestionContent": "During a daily stand up, the tester engages the developer in a discussion about what will be tested during unit\ntesting versus regression testing. What should the scrum master do?",
+            "Option": [
+                "A.  Ask the tester and developer to discuss it after the meeting, since it is not a part of the daily stand up.",
+                "B.  Encourage the discussion to resolve impediments.",
+                "C.  After the meeting, escalate this issue to the tester\u0027s supervisor to ensure that this does not reoccur.",
+                "D.  Ask more questions about the testing techniques to obtain clarification on team efforts for quality\nimprovements."
+            ],
+            "Explanation": "Answer: A\n13 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 38,
+            "QuestionContent": "A company is moving into a new space and is determining the best configuration for offices. The management\nteam is also considering moving to an agile process. What advice should an agilist give?",
+            "Option": [
+                "A.  Arrange the office space to allow co-location of development teams and centrally located information\nradiators.",
+                "B.  Isolate each development team to reduce all outside distractions.",
+                "C.  Ensure management understands the need for isolation to allow for concentration.",
+                "D.  Define the agile method the company will be using, and implement the office configuration based upon\nthat method."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 39,
+            "QuestionContent": "An agile project leader notices that the team\u0027s velocity has decreased. In examining data provided by team\nmembers, the project leader discovers that one team member has been slow to enter story statuses.\nWhat can happen as a result\u0027",
+            "Option": [
+                "A.  The team will be unable to understand the iteration\u0027s status",
+                "B.  The team will be unable to judge the project design\u0027s validity.",
+                "C.  The team cannot give accurate updates to management",
+                "D.  Team collaboration cannot be measured effectively"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 40,
+            "QuestionContent": "An experienced product owner presents the epics and corresponding stones during a release planning session\nwith the established team The executive sponsor asks the team when the features will he delivered What\nshould the agile team do?",
+            "Option": [
+                "A.  Evaluate how much can be delivered based on the Scrum Master\u0027s estimation",
+                "B.  identify a set of user stored based on the team\u0027s velocity",
+                "C.  initiate an estimation session",
+                "D.  Consult historical data for project completion"
+            ],
+            "Explanation": "Answer: D\n14 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 41,
+            "QuestionContent": "An agile team discovers a new risk and identifies that its impact may be severe. What should an agile\npractitioner recommend?",
+            "Option": [
+                "A.  Add a goal to the current iteration to fully mitigate or control the risk.",
+                "B.  Balance risk reduction and value adding activities in the next iteration.",
+                "C.  Continue with the current plan to maintain team velocity.",
+                "D.  Update the risk register and seek direction from a risk specialist."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 42,
+            "QuestionContent": "While attending a conference, an agile practitioner learns of a new user interface (Ul) framework that could\nbenefit the team. What should the agile practitioner do next?",
+            "Option": [
+                "A.  Identify a team member to do a proof of concept using this framework.",
+                "B.  Email the team directing them to immediately begin using this new framework.",
+                "C.  Obtain feedback from team members on the new framework, and then suggest that the product owner\ncreate a backlog item to do a spike on it.",
+                "D.  Discuss this option at the next retrospective."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 43,
+            "QuestionContent": "During an iteration review, the agile team asserts that a product is complete because development and review\nwere finished. The product owner disagrees, since the product has not been tested.\nWhat should the agile practitioner do?",
+            "Option": [
+                "A.  Work with the agile team and product owner to agree on the definition of done.",
+                "B.  Ask the project sponsor to determine whether the product is completed.",
+                "C.  Plan another review after the product has been tested.",
+                "D.  Add testing to the backlog, and have the product owner reprioritize."
+            ],
+            "Explanation": "Answer: A\n15 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 44,
+            "QuestionContent": "Why should a project team reduce the work in process?",
+            "Option": [
+                "A.  It indicates poor project Quality",
+                "B.  It represents team members\u0022 utilization.",
+                "C.  It represents unrealized value",
+                "D.  It shows that the project is behind schedule"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 45,
+            "QuestionContent": "Two similar stories A and B. are estimated at 3 story points Story C. is estimated a( 8 points Alter an iteration\nin which A and C were completed it is found that story A took much longer than story C.\nWhat should the agile practitioner do?",
+            "Option": [
+                "A.  Assign story B more than 8 story points so to provide a better estimate",
+                "B.  Add points to story B\u0027s iteration to account for the error but keep story B at 3 points",
+                "C.  Assign more resources to story B to bring it in line with the estimate",
+                "D.  Reestimate all stories including values for A B and C"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 46,
+            "QuestionContent": "A mature agile team welcomes a new member. Due to poor experiences with a previous team, the new\nmember is reluctant to communicate.\nWhat should the agile project leader do?",
+            "Option": [
+                "A.  Bring up the new member\u0027s impediments at the next meeting to demonstrate team support of input.",
+                "B.  Assure the new member that inputs on impediments are valued, and demonstrate this at the next\nmeeting.",
+                "C.  Have a senior lead work with the new member to avoid a negative impact on team productivity.",
+                "D.  Privately work with the new member to address any impediments."
+            ],
+            "Explanation": "Answer: C\n16 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 47,
+            "QuestionContent": "A team is delivering work as per the sprint plan, and team velocity is stabilized. However, at the end of the\nrelease, the customer is dissatisfied with project quality. What should the agile project manager have done to\navoid this?",
+            "Option": [
+                "A.  Invited end customers to attend the stand ups",
+                "B.  Organized design review sessions with the customer to obtain sign-off",
+                "C.  Held regular meetings with the product owner and project team to elicit detailed business requirements",
+                "D.  Conducted frequent review meetings with the customer to continually enhance delivery effectiveness"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 48,
+            "QuestionContent": "A new product owner shares the product vision during the team launch event. The team asks tor clarification\non the product roadmap and its high-level features. What should the product owner do\u0027",
+            "Option": [
+                "A.  Determine the required tasks for implementing the high-level features",
+                "B.  identify the detailed design for the high-level features",
+                "C.  Prioritize the product Backlog for the upcoming release",
+                "D.  Estimate the user stories in the iteration backlog"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 49,
+            "QuestionContent": "A product owner concludes that the majority of a project\u0027s value can be delivered by completing only the first\nhalf of the prioritized backlog. What should the product owner do next?",
+            "Option": [
+                "A.  Remove the second half of the backlog, and communicate their decision in the next backlog grooming\nmeeting.",
+                "B.  Reprioritize backlog items to future iterations.",
+                "C.  Work with the team to deploy the first half of the backlog to ensure that value is realized.",
+                "D.  Meet with project stakeholders to review the backlog and determine if the scope should be adjusted."
+            ],
+            "Explanation": "Answer: B\n17 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 50,
+            "QuestionContent": "What can an agile team use to prioritize stones?",
+            "Option": [
+                "A.  Planning poke\u0027 technique",
+                "B.  Weighted average calculation",
+                "C.  Risk-value quadrant",
+                "D.  INVEST scale"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 51,
+            "QuestionContent": "How can an agile team working on a new product ensure alignment with external stakeholders?",
+            "Option": [
+                "A.  Ask the product owner to provide a detailed product specification document.",
+                "B.  Conduct story-mapping exercises to clarify deliverables and release priorities.",
+                "C.  Hold a kick-off meeting to assign roles and responsibilities.",
+                "D.  Work with the scrum master and stakeholders to ensure agile principles are followed."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 52,
+            "QuestionContent": "How should a project leader manage stakeholder expectations in an agile project?",
+            "Option": [
+                "A.  Establish a common vision and success criteria and involve all the stakeholders in the iteration reviews.",
+                "B.  Invite stakeholders for the iteration reviews but do not include new stakeholders which may limit project\nsuccess.",
+                "C.  Involve all the stakeholders in iteration reviews but do not entertain all expectations of all stakeholders.",
+                "D.  Communicate issues to all stakeholders via email and only communicate risks to internal stakeholders."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 53,
+            "QuestionContent": "A project team identifies a number of technical challenges with features in the next sprint. What should they\ndo?\n18 of 72Practice Test PMI - PMI-ACP",
+            "Option": [
+                "A.  Request direction from the technical manager.",
+                "B.  Encourage the product owner to reallocate the features to another sprint.",
+                "C.  Determine who is best qualified to address the challenges.",
+                "D.  Ask the product owner to assign the tasks to the most appropriately skilled resources."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 54,
+            "QuestionContent": "An agile team is working well together, but productivity has been flat. What can the project leader do to help\nthem improve performance?",
+            "Option": [
+                "A.  Review the burndown chart to identify ways to increase efficiency.",
+                "B.  Chair a weekly team retrospective focusing on identifying areas for continuous improvement.",
+                "C.  Ask a senior manager to initiate a root-cause analysis.",
+                "D.  Identify team key performance indicators (KPIs) and create positive incentives when targets are\nachieved."
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 55,
+            "QuestionContent": "A project sponsor is upset that an enhancement will be unavailable until next year. What should the product\nowner do?",
+            "Option": [
+                "A.  Accept responsibility for the product\u0027s delay.",
+                "B.  Ensure that the project sponsor\u0027s priorities are in the product backlog.",
+                "C.  Negotiate with the project sponsor for increased funding.",
+                "D.  Empower the project sponsor to manage the product backlog."
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 56,
+            "QuestionContent": "An agile project manager notices that the product owner manages team members\u0027 day-to-day tasks in a way\nthat distracts them from their core responsibilities. In addition, the team believes that their questions on\nproduct backlog prioritization are not being answered on time.\nWhat should the agile project manager do?\n19 of 72Practice Test PMI - PMI-ACP",
+            "Option": [
+                "A.  Discuss and address this in the iteration retrospective.",
+                "B.  Let the product owner know it is the project manager\u0027s responsibility to drive a team\u0027s tasks",
+                "C.  Discuss the roles and responsibilities of the project team with the product owner.",
+                "D.  Ask the product owner to work extra hours to answer the team\u0027s questions."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 57,
+            "QuestionContent": "During a daily stand up meeting, a developer expresses concerns that the selected technology limits the\nnumber of concurrent users. What should the agile team lead do?",
+            "Option": [
+                "A.  Ask the team to conduct research to find a viable solution.",
+                "B.  Select a better technology for team implementation.",
+                "C.  Obtain customer input on their technology requirements.",
+                "D.  Consult the product owner about their non-functional requirements."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 58,
+            "QuestionContent": "During a planning session, four out of five team members vole to include eight story points m a particular\nstory, while the fifth member votes for five story points How should this be handled7",
+            "Option": [
+                "A.  The story should be assigned eight story points as per the majority vote.",
+                "B.  The story should be added to the backlog and reassessed later",
+                "C.  The story should be assigned points after a discussion with the fifth team member to see if a consensus\ncan be reached",
+                "D.  The decision for the number of story points should be made by the customer"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 59,
+            "QuestionContent": "An angle team is working on a new product. To ensure that all unknown issues are clarified before committing\nto the scope, the team plans to work only on spike user stories for the next three sprints.\nWhat should the agile coach do in this situation?\n20 of 72Practice Test PMI - PMI-ACP",
+            "Option": [
+                "A.  Ensure that the spikes identify the risks early in the project to increase the chances of success",
+                "B.  Ensure that the business sponsor accepts the proposal and agrees 10 fund the additional spike sprints",
+                "C.  Recommend that, in the first sprint user stones with higher priority be executed in addition to the spike",
+                "D.  Support the decision because release planning will be improved and the product backlog can be better\ngroomed after ail spikes are executed"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 60,
+            "QuestionContent": "During sprint planning the product owner wants the team to prioritize and deliver a number of features which\nnave the highest business value Due to technical dependencies the team does not agree with the prioritization\nWhat should the project leader do\u0027",
+            "Option": [
+                "A.  Encourage the product owner and team to reprioritize the features and select ones which can be\ndelivered without any dependencies",
+                "B.  Encourage the team to continue with the current plan do what they can, and carry forward the work not\ndone to the next iteration",
+                "C.  Ensure the team captures the technical dependences as issues within the backing and prioritize based on\nvalue optimization",
+                "D.  Ensure that the required subject matter experts (SMEs) are engaged by the product owner to help with\nbacklog prioritization"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 61,
+            "QuestionContent": "An agile team is working on the first sprint, and have already planned the second and third sprints. However,\nmarket conditions now require a change to the features. What should the product owner do?",
+            "Option": [
+                "A.  Communicate the importance of the business need to the team and refine the product backlog.",
+                "B.  Ask the team to discuss the changes to the features with the customer.",
+                "C.  Meet with the agile team lead to prioritize the requirements.",
+                "D.  Discuss and prioritize the requirements with the team."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 62,
+            "QuestionContent": "21 of 72Practice Test PMI - PMI-ACP\nA scrum team has eight developers, but only two are database engineers. During the last few retrospectives,\nthe team identified that most sprint stories are dependent upon database engineers. This has created a\nbottleneck in completing stories.\nWhat should be proposed to the team?",
+            "Option": [
+                "A.  Have other team developers attend training to learn database skills.",
+                "B.  Monitor the retrospectives of two additional sprints before taking action.",
+                "C.  Plan fewer stories for the sprint to reduce the database engineers\u0027 workload.",
+                "D.  Ask the scrum master to work with the product owner to remove backlog stories that have database\ndependency."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 63,
+            "QuestionContent": "During a project\u0027s last few sprints, an agile practitioner notices an increase in defects. A root-cause analysis\nindicates that a poor understanding of the requirements was caused by the inability of the product owner to\ncommunicate clearly.\nWhat should the agile practitioner do?",
+            "Option": [
+                "A.  Inform the product owner\u0027s manager so that corrective action may be taken.",
+                "B.  Communicate this to the product owner, and offer to help facilitate discussions with the team.",
+                "C.  Encourage a team member to raise this during the retrospective to ensure that the product owner is\naware.",
+                "D.  Escalate this issue to the sponsor so that corrective action may be taken."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 64,
+            "QuestionContent": "Due to its complexity, a new team member struggles with developing a concise user story What advice should\nthe agile practitioner give to assist with developing the story?",
+            "Option": [
+                "A.  Hand the story over to a more experienced team member",
+                "B.  Break the story up and focus on the most valuable parts",
+                "C.  Discuss the story at the next retrospective",
+                "D.  Pick another story from the product backlog\n22 of 72Practice Test PMI - PMI-ACP"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 65,
+            "QuestionContent": "An agile team\u0027s client has been asked to expedite the delivery of the next release. By delivering one month\nearly, the company can generate US$40,000 more than expected for the quarter.\nWhat should the agile team do?",
+            "Option": [
+                "A.  Adhere to the new deadline and immediately advise the client that the schedule has been expedited",
+                "B.  Advise the client that it is best to continue as planned rather than introduce unforeseen risks by\nexpediting the schedule.",
+                "C.  Submit a change request to the client with a 50% increase in charges due to the new potential profit.",
+                "D.  Request additional resources to meet the expedited deadline and obtain training for the new resources."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 66,
+            "QuestionContent": "A team\u0027s technical lead believes that manual testing tasks should be conducted by junior team members below\ntheir level. The junior team members think it is unfair and refuse the tasks.\nWhat should the scrum master do?",
+            "Option": [
+                "A.  Tell the technical lead to do the testing.",
+                "B.  Facilitate an open and focused team discussion that reinforces team agreements.",
+                "C.  Ask the team manager to advise the technical lead that all tasks are important.",
+                "D.  Encourage the team to take ownership of the delivery."
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 67,
+            "QuestionContent": "What should an agile practitioner do to ensure that the end product meets business requirements?",
+            "Option": [
+                "A.  Invite the team to iteration review meetings",
+                "B.  Obtain agreement from the product owner on business requirements",
+                "C.  Request that regular reports are sent to stakeholders",
+                "D.  Confirm managers and stakeholders are invited to product review meetings.\n23 of 72Practice Test PMI - PMI-ACP"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 68,
+            "QuestionContent": "Why should an agile coach model agile principles and behaviors, become self-aware, and be present?",
+            "Option": [
+                "A.  To better listen, serve and help the team grow their strengths individually and as a team",
+                "B.  To convince people what they need to do",
+                "C.  To help better disguise the command and control approach",
+                "D.  To understand team dynamics and develop a high performing team"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 69,
+            "QuestionContent": "Agile team A struggles to deliver committed stories due to technical dependencies with team B, which\ncontinuously fails to meet its delivery commitments. What should the agile team lead do?",
+            "Option": [
+                "A.  Create a new team to deliver the dependencies, and bring team B under performance management.",
+                "B.  Conduct a vision-sharing session with the teams to communicate the project\u0027s overall goals.",
+                "C.  Swap team members from both teams so that deliveries are better supported.",
+                "D.  Discuss negotiating the delivery timelines with team A."
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 70,
+            "QuestionContent": "During the implementation of a story, a scrum team notifies the scrum master of a technical challenge that is\ncausing a delay. What should the scrum master advise the team lo do?",
+            "Option": [
+                "A.  Implement the story since the team is running behind schedule.",
+                "B.  Create a spike to finalize the story\u0027s technical approach.",
+                "C.  Transfer the story to a scrum team experienced in solving similar problems.",
+                "D.  Ask the product owner to reduce the story\u0027s priority and wait until more technical details are available."
+            ],
+            "Explanation": "Answer: D\n24 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 71,
+            "QuestionContent": "Based on the backlog metrics in the chart, what can explain the Jump in points at the end of iteration 4?",
+            "Option": [
+                "A.  The team neglected to account for support and maintenance costs associated with other supported\nproducts",
+                "B.  The team discovered that previously accepted work could be greatly improved and added story points\nassociated with that work",
+                "C.  The team realized that some stories were underestimated relative to other stones and reestimated as\nneeded",
+                "D.  The team learned that the product owner needed to increase the output in the next release"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 72,
+            "QuestionContent": "An agile team is planning the next iteration tor a product release that has accumulated technical debt What\nshould the team do?",
+            "Option": [
+                "A.  Add code cleanup activities to the product backlog and request prioritization by the product owner",
+                "B.  Add code cleanup activities to the next iteration and request clarification from me product owner",
+                "C.  Add code cleanup activities to the next deration and ask the product owner to end the current iteration",
+                "D.  Add code cleanup activities to the next release backlog and request documentation from the product\nowner"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 73,
+            "QuestionContent": "Midway through a two-week sprint, an agile team realizes that the features cannot be delivered within the\nsprint. The team determines that another week will be required to complete all committed features.\nWhat should the team do?",
+            "Option": [
+                "A.  Plan for overtime, and include the effort as part of the estimation.\n25 of 72Practice Test PMI - PMI-ACP",
+                "B.  Increase team velocity to deliver more story points.",
+                "C.  Identify the reason for over-commitment to the sprint and create an action plan for the following sprint.",
+                "D.  Add resources to assist with sprint execution."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 74,
+            "QuestionContent": "Early in a project stakeholder analysts is performed, however an organizational restructure redefines key rotes\nWhat should the protect team do?",
+            "Option": [
+                "A.  Note the changes to the restructure and roles that affect team activities",
+                "B.  Use direct engagement and two-way conversation to update the stakeholder analysis for any new\nstakeholder requirements",
+                "C.  Email a copy of the protect vision to nose redefined for key roles and ask if they need to be involved in\nthe project",
+                "D.  Obtain a copy of the redefined key roles to update the stakeholder analysis"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 75,
+            "QuestionContent": "A product owner adds a 21-point. high-priority story to a sprint backlog. The team is concerned that it cannot\nbe completed during the current sprint. What should the team do?",
+            "Option": [
+                "A.  Advise the product owner that the story will have to wait until the next sprint.",
+                "B.  Work extra hours to complete the story and satisfy the customer\u0027s requirements.",
+                "C.  Break down the story into smaller increments and negotiate other stories on the sprint backlog.",
+                "D.  Increase the length of the sprint to accommodate the story."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 76,
+            "QuestionContent": "An agile practitioner wants to communicate the effect of technical debt on the project What should the\npractitioner do?",
+            "Option": [
+                "A.  Post and discuss rises in the burn down chart",
+                "B.  Adjust story points to account for technical debt.\n26 of 72Practice Test PMI - PMI-ACP",
+                "C.  Log technical debt as an impediment.",
+                "D.  Add refactoring tasks to all stones"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 77,
+            "QuestionContent": "Two teams have received project requirements and completed estimates. Team A estimates 420 story points\nfor scope and 30 story points for velocity per sprint. Team B estimates 280 story points for scope and 20 story\npoints for velocity per sprint. Both teams have same number of team members and have an assumed sprint\nduration of 2 weeks.\nWhat can an agile practitioner conclude about team A and team B\u0027s estimates?",
+            "Option": [
+                "A.  Team B has underestimated scope compared to team A.",
+                "B.  Team A is more confident in delivering velocity than team B.",
+                "C.  Both teams need to indicate their proposed technology before the estimates can be analyzed.",
+                "D.  Both teams have estimated the project to be of same size."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 78,
+            "QuestionContent": "The product owner wants to build security firewalls into the product. How can the team members support this?",
+            "Option": [
+                "A.  Add new security features to the backlog and prioritize.",
+                "B.  Execute a spike to research security features for the project.",
+                "C.  Ask questions to determine where and how the product owner wants to use the product.",
+                "D.  Ask questions to determine if the product owner can define the desired level of security."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 79,
+            "QuestionContent": "A company president is concerned about the impact of a natural disaster on the company. How should\nmanagement identify areas to apply its resources and mitigate potential impacts?",
+            "Option": [
+                "A.  Establish and keep an active risk register that includes mitigation strategies and a cost-benefit analysis.",
+                "B.  Establish and keep an active risk register based on qualitative risk analysis and expected losses.\n27 of 72Practice Test PMI - PMI-ACP",
+                "C.  Have each development team post the highest risk development items on the information radiator.",
+                "D.  Avoid risk by splitting development teams into two locations to ensure knowledge continuity."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 80,
+            "QuestionContent": "A development team, new to scrum, questions the need to collect metrics on team performance. While team\nmembers understand velocity and burn down, they feel that once velocity becomes settled it is needless to\nkeep track.\nWhat should the agile coach tell the team?",
+            "Option": [
+                "A.  Continuing to track velocity allows functional managers to assess whether or not the team is performing\nat the desired rate.",
+                "B.  The trends will show how the team performs against other scrum teams in the organization.",
+                "C.  Tracking velocity will provide a baseline for the team to see how their continuous improvement efforts\nare working.",
+                "D.  Tracking velocity will document and communicate team health to the stakeholders."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 81,
+            "QuestionContent": "During planning sessions, an agile practitioner notices that some team members do not share common ideas.\nWhat should the agile practitioner do?",
+            "Option": [
+                "A.  Ask the team if they would like to adopt alternative techniques.",
+                "B.  Create a team norms document to set participation guidelines.",
+                "C.  Ask the scrum master to resolve the issue at the stand up meeting.",
+                "D.  Capture feedback during lessons learned at the end of the iteration."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 82,
+            "QuestionContent": "During a current sprint a learn member asks permission horn the scrum master lo investigate an alternative\ndesign approach What should the scum master do?",
+            "Option": [
+                "A.  Discourage the team member from deviating from the plan and document the request during the\nretrospective\n28 of 72Practice Test PMI - PMI-ACP",
+                "B.  Encourage the team member to research the issue and present the findings during the retrospective",
+                "C.  Discourage the team member from using experimentation.\u0027spikes unless it is fully developed and\naccounts for a variety of use cases",
+                "D.  Encourage the team member to use experimentation \u2018spikes for continuous improvement and help the\nteam understand why it is important"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 83,
+            "QuestionContent": "A learn member 15 stressed due to a heavy workload, while other team members have some slack in their\nschedules How should the learn lead address this?",
+            "Option": [
+                "A.  inform management, and suggest that additional resources may be required",
+                "B.  Discuss me issue with the learn m me daily stand up meetings",
+                "C.  Meet personally with the stressed learn member to brainstorm ways to better manage their lime",
+                "D.  Begin tracking the stressed learn member\u0027s tastes in a separate backlog for additional analysis and\nreporting"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 84,
+            "QuestionContent": "A new project starts and team members are pooled together to execute it. The team works together and moves\nfrom the forming stage into the storming stage. However, potentially destructive conflicts are now arising.\nWhat should the agile coach do to develop members into a high-performance team?",
+            "Option": [
+                "A.  Teach the team how to work comfortably in chaos.",
+                "B.  Provide strong facilitation and conflict-resolution guidance.",
+                "C.  Allow the team to resolve issues on their own.",
+                "D.  Observe each team member and advise them on team relationships."
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 85,
+            "QuestionContent": "During a retrospective the agile practitioner discovers that a team member\u0027s process improvement idea has\nworsened the outcome What should the agile practitioner do?\n29 of 72Practice Test PMI - PMI-ACP",
+            "Option": [
+                "A.  Commend the team on A. trying the idea then encourage discussion regarding alternatives",
+                "B.  Ask a manager to direct the team on fixing the process",
+                "C.  Encourage the team to continue executing the idea to see if it improves",
+                "D.  Privately speak with the learn member to convey that their idea worsened the outcome"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 86,
+            "QuestionContent": "An agile team member from a cross-functional team has been unable to complete assignments due to tasks\nassigned by the functional manager What should the Scrum Master do?",
+            "Option": [
+                "A.  Dismiss the learn member",
+                "B.  Discuss the situation with the functional manager",
+                "C.  Report the functional manager to the project sponsor",
+                "D.  Demand that the functional manager respect the protect charter"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 87,
+            "QuestionContent": "At the end of a product development phase, an agile project team confirms that all tests have passed. The\nproduct is released, but the customer complains that it is deficient.\nWhat should the project team have done prior to product release?",
+            "Option": [
+                "A.  Requested approval from the project sponsor",
+                "B.  Undertaken a review of all requirements",
+                "C.  Conducted an end-of-phase demonstration",
+                "D.  Performed a retrospective to validate project deliverables"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 88,
+            "QuestionContent": "A newly formed scrum learn wants to foster an environment of transparency and experimentation. The team\ndecides to use a Kanban board to record and track encountered impediments Emphasis is placed on how issues\nare reserved and the strategies for preventing them in the future.\n30 of 72Practice Test PMI - PMI-ACP\nOver time, what will be the result of this approach?",
+            "Option": [
+                "A.  Kaizen",
+                "B.  Specific measurable, assignable realistic. and time-based (SMART) goals",
+                "C.  Key performance indicators (KPIs)",
+                "D.  Muda"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 89,
+            "QuestionContent": "Senior management is frustrated at the lack of a detailed implementation plan that shows exactly when the\nproject will end and when all requirements will be met. The team has been using a rolling wave planning\napproach so tar on the project How should the agile practitioner explain to server management the benefits of\nthis approach?",
+            "Option": [
+                "A.  it ensures a consistent level of detail is available in the project schedule.",
+                "B.  it prevents a wasteful buildup of requirements inventory that may never be processed",
+                "C.  it provides a concrete definition of project scope, cost and duration",
+                "D.  it allows the team to lock down the stones to be included in a release"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 90,
+            "QuestionContent": "During a project meeting a team is laced with a difficult decision After discussion and deliberation the project\nleader makes the final decision and ends the discussion This causes a team member to withdraw from future\ncollaboration How could (he project leader have avoided this?",
+            "Option": [
+                "A.  Led by example by encouraging the team to engage in consensus-driven decision making",
+                "B.  Iterated the need for agile teams to make quick decisions, then tallowed up with that team member",
+                "C.  Empowered a team member to facilitate decision making, then made a final decision on behalf of the\nteam",
+                "D.  Refrained from participating in the team\u0027s decision making process except to document and\ncommunicate results"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 91,
+            "QuestionContent": "31 of 72Practice Test PMI - PMI-ACP\nA newly formed development learn experienced difficulty with accurately estimating product backlog items\nAs a result, the team failed to deliver all of the features in the sprint backlog for the past two iterations\nWhat should the team do to improve the accuracy of their estimates?",
+            "Option": [
+                "A.  Decrease the sprint time box until the team is able to deliver the entire agreed-upon sprint backlog tn a\nsingle sprint",
+                "B.  Discuss estimating techniques in the daily scrum meeting",
+                "C.  Increase the size of the development team until the team is able to deliver the entire agreed-upon sprint\nbacklog in a single sprint",
+                "D.  Begin tracking estimated effort metrics as an input to performance evaluation."
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 92,
+            "QuestionContent": "A product owner with experience in a predictive approach wants the team to develop very detailed schedules\nand cost estimates for the next 10 sprints. What should the Scrum Master do?",
+            "Option": [
+                "A.  Suggest the product owner start by focusing on the next 2 sprints instead of 10",
+                "B.  Spend the first few sprints to develop detailed schedules and budgets",
+                "C.  Invite the product owner to the retrospective to explain the team\u0027s approach to schedule and budget",
+                "D.  Explain that detailed project schedules and budgets are not artifacts in agile projects"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 93,
+            "QuestionContent": "After a successful product deployment, a key stakeholder informs an agile team member that an implemented\nfeature is failing to deliver its expected business value. The team member replies that the requirement was\nprovided by the customer, and that the scope was clearly met.\nIf the problem were an issue of requirement elicitation rather than delivery, what should have been done to\navoid this situation?",
+            "Option": [
+                "A.  Stakeholders should have regularly been engaged to obtain feedback and reduce the functionality risk.",
+                "B.  The team should have used the lean principle of delay, so that actual facts could be considered rather\nthan assumptions and predictions.",
+                "C.  Interdependent teams should have been engaged using a collaborative approach to identify and leverage\nthe best support.\n32 of 72Practice Test PMI - PMI-ACP",
+                "D.  An owner should have been identified to obtain timely stakeholder feedback."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 94,
+            "QuestionContent": "During a review session an agile team presented done requirements to a group of stakeholders Stakeholder\nfeedback indicated that the done requirements failed to meet the most pressing needs and provide value\nWhat should the team have done to prevent this?",
+            "Option": [
+                "A.  Reprioritized requirements prior to committing to iteration work",
+                "B.  Ensured that requirements remained stable during the iteration cycle",
+                "C.  Had stakeholders focus on items created after the product backlog was initially built",
+                "D.  Worked on features rather than a set of components"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 95,
+            "QuestionContent": "At the retrospective, the burndown chart shows that the project is slightly behind schedule. The project team\nidentifies an inexperienced software engineer as the source of reduced velocity-How should the project team\naddress this issue?",
+            "Option": [
+                "A.  Suggest pair programming during the retrospective.",
+                "B.  Ask the product owner to re-prioritize the user stories at the next retrospective.",
+                "C.  Re-estimate the story points with team members at the next iteration planning meeting.",
+                "D.  Assign less complex user stories to the inexperienced software engineer at the next iteration planning\nmeeting."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 96,
+            "QuestionContent": "A seven-member agile team\u0027s composition varies considerably in age, gender, culture, personality type, and\nprofessional background. When planning a team-building event, what type of interpersonal skills should the\nproject leader use?",
+            "Option": [
+                "A.  Networking",
+                "B.  Social awareness\n33 of 72Practice Test PMI - PMI-ACP",
+                "C.  Communication",
+                "D.  Leadership"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 97,
+            "QuestionContent": "Midway through a sprint, a team member discovers that the product design fails to adhere to the organization\u0027s\nenterprise architecture standards. Since this required escalation to the architecture team for further analysis and\nresolution, the team was unable to deliver its sprint goal and the sprint was cancelled.\nWhat should the team have done to avoid this?",
+            "Option": [
+                "A.  Escalated the issue to management",
+                "B.  Ensured the early engagement of key stakeholders",
+                "C.  Provided feedback to the architecture team to change the enterprise architecture standards",
+                "D.  Raised an exception for non-adherence to the enterprise architecture standards for this product"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 98,
+            "QuestionContent": "Midway through a project, the product owner learns from the sponsor that a major component, which is\nalready 20 percent complete, is unimportant to users. The component was part of the approved scope and a key\nselling point for the project.\nWhat should the product owner do next?",
+            "Option": [
+                "A.  Obtain approval from the change control board to discontinue the component.",
+                "B.  Ask the team to continue developing the component.",
+                "C.  Ask the team to discontinue developing the component.",
+                "D.  Request the sponsor\u0027s formal approval to discontinue the component."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 99,
+            "QuestionContent": "An event management team is following an agile approach to prepare for an upcoming conference. The\nregional sales manager, from where the conference is to be held, contacts the team with a number of questions\nabout the company\u0027s booth.\n34 of 72Practice Test PMI - PMI-ACP\nWhat should the team do?",
+            "Option": [
+                "A.  Inform the sponsor about the regional sales manager\u0027s disruptiveness and ask that all questions be\ndiverted to the weekly meetings.",
+                "B.  Stay focused on the current iteration and let the project manager deal with the regional sales manager\u0027s\nquestions.",
+                "C.  Invite the regional sales manager to the next iteration review to share the progress.",
+                "D.  Create a risk on the risk register to account for some potentially new requirements from the regional\nsales manager."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 100,
+            "QuestionContent": "Unable to meet a sprint\u0027s committed velocity, an agile team approaches the agile coach to define the next\nsprint\u0027s velocity. What should the agile coach advise?",
+            "Option": [
+                "A.  Split each story into multiple stories to meet the desired velocity.",
+                "B.  Set the velocity to the delivered story points of the last sprint.",
+                "C.  Use different estimation methods for stories and defects to meet the desired velocity.",
+                "D.  Re-estimate by assigning more story points to smaller stories to increase the velocity."
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 101,
+            "QuestionContent": "After three iterations, it is identified that a project\u0027s underlying security structure architecture is unstable.\nWhile there is a technical solution, all work to date is flawed. This will impact several future business service\nofferings.\nWhat should the product owner do to resolve this?",
+            "Option": [
+                "A.  Ask the development team to address the issue since it is in their domain.",
+                "B.  Review the project\u0027s risk matrix, and follow the steps outlined in the risk mitigation plan.",
+                "C.  Meet with the team and stakeholders to address rework and rewrite stories as needed.",
+                "D.  Cancel the current sprint, and meet with stakeholders to reassess the project\u0027s validity."
+            ],
+            "Explanation": "Answer: B\n35 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 102,
+            "QuestionContent": "Prior to a retrospective, discussions among team members indicate conflict. An agile practitioner wants to\nensure an open and safe environment during the retrospective. What should the agile practitioner do?",
+            "Option": [
+                "A.  Review established ground rules with the team.",
+                "B.  Ask team members specific questions to identify the cause.",
+                "C.  Encourage the team to continue working to maintain the iteration\u0027s schedule.",
+                "D.  Meet with the product owner and stakeholders to discuss the issue."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 103,
+            "QuestionContent": "What can a team use to prioritize stories?",
+            "Option": [
+                "A.  MoSCoW method",
+                "B.  Planning poker technique",
+                "C.  Weighted average calculation",
+                "D.  INVEST scale"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 104,
+            "QuestionContent": "More details for a story are required before the upcoming sprint planning meeting. What should the scrum\nmaster do?",
+            "Option": [
+                "A.  Email the product owner requesting detailed story specifications and wait for a response",
+                "B.  Gather the details from the team members before sprint planning",
+                "C.  Schedule a story grooming session with the product owner before sprint planning",
+                "D.  Conduct a planning poker session with the team"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 105,
+            "QuestionContent": "Outing a review session a customer representative is concerned that a story fails to satisfy the scope of work.\nHowever the product owner declares that the scope of work is complete What should be done with this story?\n36 of 72Practice Test PMI - PMI-ACP",
+            "Option": [
+                "A.  Mark it as incomplete and prioritize it for the next sprint",
+                "B.  Mark it as complete, since the product owner has the final say",
+                "C.  Discard it and create a new story for the remaining scope of work",
+                "D.  Mark it as complete, since the team completed the scope of work"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 106,
+            "QuestionContent": "When a learn member encounters an issue in an agile environment, what should they do?",
+            "Option": [
+                "A.  Limit communication between the team members and the customer to prevent unnecessary anxiety",
+                "B.  Manage communication between ail team members and the customer to promote effective and\ntransparent collaboration",
+                "C.  Manage communication between a few team members and the customer so that they may convey\ninformation to other team members",
+                "D.  Facilitate one-on-one communication between team members to reduce conflict and inefficiencies"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 107,
+            "QuestionContent": "A technical problem arises that win likely impact the stories planned for delivery in the current sprint What\nshould the scrum master do?",
+            "Option": [
+                "A.  Consider adding a story to the next sprint to seek resolution",
+                "B.  immediately solve the problem on behalf of the team",
+                "C.  Ask the team to collaboratively work out a solution",
+                "D.  Engage a technical manager to assist With finding a solution"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 108,
+            "QuestionContent": "A team identifies the number of threats and lists them in the order in which they were identified. After\nanalyzing a cause-and-effect diagram, the ownership of the threats and their treatment is assigned, and a\nnumber of risk cards are placed on the Kanban board.\n37 of 72Practice Test PMI - PMI-ACP\nWhat approach should be used to manage these threats?",
+            "Option": [
+                "A.  Create a risk register detailing the threats, their causes, and their treatment strategies; and complete\nownership to provide tighter risk control and a stakeholder communication tool.",
+                "B.  Focus on the threats during the daily stand up and ensure they are visible to the entire team and other\ninterested parties.",
+                "C.  Prioritize the risks based on their criticality and timing, and track actions to closure.",
+                "D.  Ensure that the prioritization of threats is complete, and that ownership actions are assigned and visible\nto everyone."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 109,
+            "QuestionContent": "A new agile project manager accepts an assignment to manage a well-established team Many team members\nhave worked together on this product tor several years. During a meeting, the project manager notices that\nteam members otter little vocal interaction yet all required tasks are completed on time\nWhat type of behavior does this describe?",
+            "Option": [
+                "A.  Synchronous",
+                "B.  Collaborative",
+                "C.  Passive-aggressive",
+                "D.  Random"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 110,
+            "QuestionContent": "Based on me burndown chart, what is the iteration\u0027s status?",
+            "Option": [
+                "A.  It trended ahead of schedule and completed everything on time\n38 of 72Practice Test PMI - PMI-ACP",
+                "B.  It took more time than expected and had to be lengthened",
+                "C.  It trended behind schedule and did not complete everything on time",
+                "D.  It took less time than expected and had to be shortened"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 111,
+            "QuestionContent": "A team is creating a highly marketed, time-sensitive product. The agile coach is concerned that anything other\nthan exceptional quality will result in bad publicity for the company.\nWhat should the agile coach ensure that developers do?",
+            "Option": [
+                "A.  Establish pair programming partners, and regularly perform peer reviews.",
+                "B.  Perform demos at the end of each iteration.",
+                "C.  Send coding to the quality assurance (QA) team upon completion.",
+                "D.  Demonstrate each feature to the client as soon as coding is complete."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 112,
+            "QuestionContent": "The learn is refining user stones during the backlog grooming session and confused on the acceptance criteria\nand level of details What should the agile practitioner do?",
+            "Option": [
+                "A.  Complete the test cases before creating the story m the backlog",
+                "B.  Define the detailed business requirements so that the team can continue with development",
+                "C.  Define me user stones with just enough details so the team can collaborate continuously",
+                "D.  Ensure the acceptance criteria Includes testing scenarios, so the learn can do thorough testing"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 113,
+            "QuestionContent": "During backlog refinement meeting, the new developer on the team asks the product owner to discuss a new\nperformance threshold requirement and how it impacts the stories in the backlog. What should the team do?",
+            "Option": [
+                "A.  Add this threshold requirement request as acceptance criteria in all impacted stories",
+                "B.  Create a spike story to analyze the impact of the threshold requirement on current stories\n39 of 72Practice Test PMI - PMI-ACP",
+                "C.  Conduct design planning session to review the performance threshold requirement",
+                "D.  Identify the tasks for the new performance threshold requirement"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 114,
+            "QuestionContent": "An agile team member identifies a potential problem within the project team How should the team\u0027s coach\nreact?",
+            "Option": [
+                "A.  Document the problem escalate to the project manager, and develop a solution for the team",
+                "B.  Add the problem to the backlog and assign resolution to a future iteration",
+                "C.  Instruct the team to try to solve the problem within the team",
+                "D.  Perform root cause analysis and report the problem to the product owner"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 115,
+            "QuestionContent": "How can a scrum team obtain more feedback from a minimally responsive outside stakeholder?",
+            "Option": [
+                "A.  Keep sprints short.",
+                "B.  Invite the stakeholder to the daily stand ups.",
+                "C.  Ask the stakeholder for estimates for each user story.",
+                "D.  Schedule more demos during each sprint."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 116,
+            "QuestionContent": "A project Worn meets to estimate user stones for a sprint. While an important non-functional requirement must\nbe delivered in the sprint the estimate exceeds sprint capacity.\nWhat should the team do?",
+            "Option": [
+                "A.  Estimate only functional requirements that will impact product quality",
+                "B.  Add learn resources",
+                "C.  Refer the issue to the product owner\n40 of 72Practice Test PMI - PMI-ACP",
+                "D.  Break non-functional requirements into those that can be delivered in the given sprint"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 117,
+            "QuestionContent": "A senior team member feels underutilized. What should the agile practitioner do?",
+            "Option": [
+                "A.  Transfer the senior member to another team that will more fully utilize their skill set.",
+                "B.  Conduct a performance evaluation to determine whether or not this member is a team player.",
+                "C.  Encourage the project team to involve the senior member in more project activities.",
+                "D.  Ask the functional manager to determine the best course of action."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 118,
+            "QuestionContent": "On an agile project some of the development team is struggling to understand how the tasks and use stones fit\ninto the overall product. How should this be addressed?",
+            "Option": [
+                "A.  Review the iteration goals and have the team each describe the work to create shared understanding",
+                "B.  Create a story map for the minimal viable product (MVP) functionality",
+                "C.  Capture this as a task in the retrospective and ensure there is more detail provided at the next planning\nsession.",
+                "D.  Have the product owner explain the product vision and review the release plan with the team"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 119,
+            "QuestionContent": "After seeing the planned features for an upcoming release, a customer notes that a vitally important and\ncomplex one is missing. The team estimates that this feature significantly exceeds its average velocity.\nHow can this issue be resolved?",
+            "Option": [
+                "A.  Break down the feature into smaller parts, and commit to completing the minimum viable product.",
+                "B.  Complete the iteration to which they have already committed, and include the feature in the next release.",
+                "C.  Change the planned features to include only the vitally important one.\n41 of 72Practice Test PMI - PMI-ACP",
+                "D.  Extend the iteration to complete the feature."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 120,
+            "QuestionContent": "During product development, changes in technology and regulations require the team to reassess product\narchitecture. How should this technical debt be captured?",
+            "Option": [
+                "A.  Include it in the product backlog and use a new indicator to annotate that it is technical debt.",
+                "B.  Include it in the product backlog as a low-priority issue.",
+                "C.  Since it is not a part of agile methodologies, it should not be tracked.",
+                "D.  Have team members maintain personal lists of issues and consolidate the lists during review."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 121,
+            "QuestionContent": "A client slates that a product is not being built as requested. How should the agile team address this?",
+            "Option": [
+                "A.  Conduct an internal review to validate functionality before shipping",
+                "B.  Audit the quality control process to ensure that the product adheres to requirements.",
+                "C.  Lengthen iterations to ensure there is sufficient time to build functionality",
+                "D.  Hold product review sessions with the client to obtain product acceptance."
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 122,
+            "QuestionContent": "An agile project manager is planning the initial scope schedule, and cost range estimates on a new project. The\nteam will be using Kanban to control work What metrics should the team use to measure performance?",
+            "Option": [
+                "A.  Lead time throughput and due date performance",
+                "B.  Work m progress limits Kanban board and time boxes",
+                "C.  Work item types, sprint cadences, and detect classes",
+                "D.  Burndown charts, scatter diagrams and throughput"
+            ],
+            "Explanation": "Answer: A\n42 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 123,
+            "QuestionContent": "During the review session, the product owner discovers that the user interface has a response time of 10\nseconds The non-functional requirements state that it should respond in less than two seconds. The team\ncomplains that this requirement was not communicated to them.\nWhat should have been done to avoid this?",
+            "Option": [
+                "A.  A comprehensive user story with all non-functional requirements should have been created.",
+                "B.  Non-functional requirements should have been added to the acceptance criteria",
+                "C.  Non-functional requirements should have been added to the definition of done",
+                "D.  A team review of the scope of work should have been conducted"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 124,
+            "QuestionContent": "A product owner new to the role is very enthusiastic about an agile protect with an energetic team. What\nshould be done first to ensure successful delivery of the product?",
+            "Option": [
+                "A.  Hold a meeting with the team and the product owner to develop the team charter, working agreement,\nguiding principles and product vision",
+                "B.  Ask the product owner to create the project vision and charter and then discuss the guiding principles\nwith the team",
+                "C.  Hold a meeting during which the team can present the protect charter, high-level project plan and team\nvalues to the product owner",
+                "D.  Send the product owner to formal product-owner training where the product owner can learn how to\ncreate a product vision"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 125,
+            "QuestionContent": "Toward the end of a project, the product owner discovers that the project has a high probability of failure due\nto a critical feature not functioning as expected. What should the product owner do?",
+            "Option": [
+                "A.  Terminate the project to cut losses.",
+                "B.  Review possible options and make an informed decision to cut losses based on delivered business value.",
+                "C.  Bring in experts to increase the probability of success.\n43 of 72Practice Test PMI - PMI-ACP",
+                "D.  Continue the project, release the product without the failing feature, and fix the feature in a subsequent\nrelease."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 126,
+            "QuestionContent": "During mid-sprint changes, an agile facilitator meets with the executive and development teams. During the\nmeeting, executive team members resolve conflicts, and on their own initiative, review the iteration charts to\ndiscuss changes to the iteration\u0027s functional goal.\nWhat practice is the agile facilitator implementing?",
+            "Option": [
+                "A.  Building openness and transparency on the project\u0027s health and status",
+                "B.  Facilitating conflict resolution among executive team members",
+                "C.  Using active stakeholder involvement to build features in an incremental and iterative approach",
+                "D.  Seeking continuous feedback from executive team members"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 127,
+            "QuestionContent": "An agile team has only one database administrator with the necessary knowledge of database-related tasks.\nThe project manager identifies the risk that if this person leaves, team velocity will significantly decrease.\nWhat should the agile coach do?",
+            "Option": [
+                "A.  Start the hiring process for a new, equally skilled database administrator as a replacement.",
+                "B.  Move this database administrator to another team so that team members learn database-related tasks.",
+                "C.  Add another database administrator to balance the workload and aid with knowledge retention.",
+                "D.  Obtain agreement from the team that, on upcoming sprints, the database administrator will act only in an\nadvisory capacity."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 128,
+            "QuestionContent": "During a retrospective, team members suggest process improvement ideas. The agile team lead knows that,\nwhile many of these ideas are different from standard practices, a few of them are good.\nWhat should the agile team lead do?\n44 of 72Practice Test PMI - PMI-ACP",
+            "Option": [
+                "A.  Require the team to try only those ideas that will ensure success.",
+                "B.  Allow the team to try ideas, but remind them that results will be reviewed by high-ranking executives.",
+                "C.  Associate idea successes and failures with the team\u0027s incentive plan to ensure accountability.",
+                "D.  Encourage the team to try the ideas, even if failure may be the outcome."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 129,
+            "QuestionContent": "An executive requests information regarding a sprint status. What action should the product owner take?",
+            "Option": [
+                "A.  Invite the executive to the standup.",
+                "B.  Direct the executive to the information radiator.",
+                "C.  Personally meet with the executive.",
+                "D.  Email the requested information to the executive."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 130,
+            "QuestionContent": "During sprint planning learn members have differing opinions on a feature that delivers business value but\nfails to provide a long-term solution for the customer. How should the team resolve this?",
+            "Option": [
+                "A.  Refer to the values of the agile framework and the team",
+                "B.  Review the signed customer contract",
+                "C.  Check the sprint priority list",
+                "D.  Submit the problem to the product owner"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 131,
+            "QuestionContent": "",
+            "Option": [
+                "A.  Defer starting the design of item B until the second iteration is being planned",
+                "B.  Proceed with the design of item B, since it will hasten the second iteration\n45 of 72Practice Test PMI - PMI-ACP",
+                "C.  Escalate the issue to me customer and obtain their approval before starting the design of item B",
+                "D.  Log the issue in the risk register and request change control board (CCB) approval"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 132,
+            "QuestionContent": "A product owner feels that the last sprint tailed to sufficiently deliver what was valuable to the\u003Er\norganization\u0027s overall project goals What should the scrum master mention at the next retrospective?",
+            "Option": [
+                "A.  Solutions to project problems that were built into the last sprint",
+                "B.  Problems that arose",
+                "C.  Solutions that saved that organization the most time and money",
+                "D.  Problems that were solved"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 133,
+            "QuestionContent": "During a six-week iteration, an issue is identified by a team member. After analysis, the team member\ndetermines that it will take at least two weeks to resolve. What should the team member do?",
+            "Option": [
+                "A.  Notify the product owner and begin resolution.",
+                "B.  Communicate the issue to the team in the next stand up meeting.",
+                "C.  Immediately begin resolution, and communicate it to the team during the retrospective.",
+                "D.  Work on the next activity, and communicate it to the team during the retrospective."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 134,
+            "QuestionContent": "A development team and product owner disagree on a user story m the product backlog What should the agile\npractitioner do?",
+            "Option": [
+                "A.  Have the development team follow the product owner\u0027s direction",
+                "B.  Openly challenge the product owner m an effort to poke holes m their approach",
+                "C.  Facilitate a conversation about the user story between the development learn and the product owner\n46 of 72Practice Test PMI - PMI-ACP",
+                "D.  Serve as a nonpartisan evaluator of each option and provide direction to the development team and\nproduct owner"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 135,
+            "QuestionContent": "Business stakeholders of an agile project frequently skip the review meetings. What should the agile\npractitioner do?",
+            "Option": [
+                "A.  Ask the product owner to inform all stakeholders about the project\u0027s progress.",
+                "B.  Send meeting notes to all stakeholders after each review meeting.",
+                "C.  Include the results of the review meetings in the information radiators.",
+                "D.  Convince the stakeholders of the benefits of attending the review meetings."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 136,
+            "QuestionContent": "What should a Scrum Master do when one team member falls behind in their tasks\u0027?",
+            "Option": [
+                "A.  Move the task to another team member who has spare capacity in the sprint",
+                "B.  Ask the team for suggestions",
+                "C.  Privately offer the team member encouragement to meet task commitments",
+                "D.  Notify the product owner"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 137,
+            "QuestionContent": "An agile team is preparing a release plan for a project. What information will the team need to complete this\nplan?",
+            "Option": [
+                "A.  Amount of work needed to complete a single user story",
+                "B.  Amount of work that can be accomplished by each team member",
+                "C.  Amount of work that can be accomplished in an iteration",
+                "D.  Amount of work that can be accomplished by the entire team"
+            ],
+            "Explanation": "Answer: D\n47 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 138,
+            "QuestionContent": "A company is considering developing a new, complex application that will require a large initial investment.\nHowever, if successful, the profit potential is high. When preparing an analysis, what should be used to\nencourage stakeholders who are concerned about project failure to authorize the initial investment?",
+            "Option": [
+                "A.  Calculated planned percent complete (PPC)",
+                "B.  Many small minimally marketable features (MMFs)",
+                "C.  Story points rather than cost estimates",
+                "D.  Calculated earned value (EV)"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 139,
+            "QuestionContent": "During a backlog refinement meeting, a senior team member raises a concern about an epic sizing that requires\nthe use of a new interface for a vendor product. The product owner acknowledges this as a risk.\nWhat should the product owner do now?",
+            "Option": [
+                "A.  Log the risk in the risk register, and share the information with impacted stakeholders at the next\nmonthly review meeting.",
+                "B.  Create a spike story to determine what needs to be done to use the new interface.",
+                "C.  Lower the epic\u0027s priority so that it can be deferred, and analyze it during backlog refinement meetings.",
+                "D.  Move the work to the vendor, since they have better knowledge of interface implementation."
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 140,
+            "QuestionContent": "A new agile team member notices that the team\u0027s current process involves excessive documentation. What\nshould the new team member do?",
+            "Option": [
+                "A.  Teach the team the appropriate agile principle, obtain consensus, and drive adoption.",
+                "B.  Allow another team member to prepare those documents that do not appear to bring value.",
+                "C.  Notify the project manager about other documentation techniques, and identify which documents bring\nvalue and which do not.\n48 of 72Practice Test PMI - PMI-ACP",
+                "D.  Follow the existing process to avoid conflicts."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 141,
+            "QuestionContent": "An agile team has been in place for five years and the customer is satisfied with the team\u0027s performance and\ndeliverables. Now that the product is built and delivered, the customer is considering the future role of the\nScrum Master.\nWhat should the customer do?",
+            "Option": [
+                "A.  Expand the Scrum Master\u0027s role to other projects, while allowing them to support the current project.",
+                "B.  Release the Scrum Master, since the team is adequately skilled with agile practices.",
+                "C.  Expand the product owner\u0027s role to serve as the Scrum Master, while providing additional product\nknowledge.",
+                "D.  Increase the functional manager\u0027s role to act as the Scrum Master, while providing additional\ninformation about functional areas."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 142,
+            "QuestionContent": "An agile team is under pressure to deliver an application. The product owner anticipates many change requests\nfrom customers once the product is released What should the agile team do?",
+            "Option": [
+                "A.  Demand frequent product reviews by the product owner",
+                "B.  Continuously work with the product owner to do backlog refinement and product reviews",
+                "C.  Have the product owner provide detailed requirement specifications to ensure the proper features are\ndelivered",
+                "D.  During the planning session ensure the team is committed to deliver within the specifications"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 143,
+            "QuestionContent": "An agile coach is assigned to help a project learn that was recently co-located dose to a very popular business\nMany team members visit this business during working hours which affects team performance What should\nthe agile coach do to mitigate this issue?",
+            "Option": [
+                "A.  Speak with the functional managers and come to an agreement that will resolve the issue\n49 of 72Practice Test PMI - PMI-ACP",
+                "B.  Explain to functional managers that too much control will inversly impact team morale",
+                "C.  Meet with the team to discuss the issue and identify specific actions to reduce or eliminate the issue",
+                "D.  inform the team there will be penalties to anyone who visits that business during working hours"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 144,
+            "QuestionContent": "A learn member on a new scrum project previously provided support lo another application Due to issues with\nthat application the team member\u0027s former supervisor continues assigning them tasks related to that protect\nThe new project\u0027s scrum master includes this issue in the risk register.\nWhat should the scrum master do next?",
+            "Option": [
+                "A.  Monitor the threats and risks while allowing the team member to multitask on both projects",
+                "B.  Assign more resources to the sprints to compensate for the absences of the team member",
+                "C.  Ensure that the threats and risks are communicated and addressed",
+                "D.  Assign fewer stones to the sprints so that the team member can still meet sprint goals"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 145,
+            "QuestionContent": "While reviewing the sprint burn down during a stand up. the scrum team identifies that they have fallen\nbehind. Upon further discussion, they discover that some quality assurance (QA) team members were unable\nto use the new automation framework, which caused a bottleneck.\nWhat should the scrum team do?",
+            "Option": [
+                "A.  For upcoming sprints, have QA team members ensure that their respective skill sets are considered when\naccepting stories.",
+                "B.  Have QA team members with the appropriate skill sets spend extra time to help the team succeed.",
+                "C.  Ensure that QA team members who lack the appropriate skill sets sign up for training within the next\nfew weeks.",
+                "D.  Ask QA team members experienced with the new automation framework to cross-train the other QA\nmembers."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 146,
+            "QuestionContent": "50 of 72Practice Test PMI - PMI-ACP\nWhat estimation technique is an agile team using when collectively estimating the relative size of its stories\nusing story points?",
+            "Option": [
+                "A.  Parametric",
+                "B.  One-to-one comparison",
+                "C.  Affinity",
+                "D.  Planning poker"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 147,
+            "QuestionContent": "An agile practitioner wants to ensure that stakeholders have current information about a project\u0027s progress\nWhat should the agile practitioner do?",
+            "Option": [
+                "A.  Regularly circulate an updated, detailed version of the project plan",
+                "B.  Frequently update the online project management office (PMO) repository site",
+                "C.  invite the stakeholders to daily stand ups",
+                "D.  Post a project board in an area where all can view it."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 148,
+            "QuestionContent": "While struggling to take ownership of delivery, an agile team fails to keep up with its sprint commitments.\nWhat should the agile coach do?",
+            "Option": [
+                "A.  Work with the sponsor to develop team expectations.",
+                "B.  Provide the customer with a list of deliverables and obtain agreement.",
+                "C.  Encourage the team to more frequently interact with all stakeholders.",
+                "D.  Work on finishing upfront product design rather than comprehensive documentation."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 149,
+            "QuestionContent": "A product that recently went to market is receiving a great deal of attention from upper management who\nexpresses interest by directly emailing and calling the developer team. The team expresses frustration during a\n51 of 72Practice Test PMI - PMI-ACP\nstandup.\nWhat should the Scrum Master do?",
+            "Option": [
+                "A.  Ask the product owner how upper management\u0027s comments can be redirected.",
+                "B.  Direct the developer team to ignore the phone calls and emails.",
+                "C.  Ask the product owner to enter the requests into the product backlog as high priority.",
+                "D.  Personally respond to upper management\u0027s phone calls and emails."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 150,
+            "QuestionContent": "The project team is ahead of schedule and beginning to gold-plate the feature included in the current sprint.\nWhat should the agile project manager do?",
+            "Option": [
+                "A.  Since the team has extra time, notify the product owner and secure approval for the extra work on this\nfeature.",
+                "B.  Encourage the team to document the improvement and prioritize it for the upcoming iteration, instead of\nbuilding it now.",
+                "C.  Instruct the Scrum Master to have the team use the extra time to complete the extra feature work in the\ncurrent iteration.",
+                "D.  Notify the product owner and have the product owner verify the backlog priority, then encourage team\nto continue working on the backlog."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 151,
+            "QuestionContent": "A product\u0027s scope and acceptance criteria have been defined, and the product is planned for release at the end\nof the next quarter. What should the project team do next?",
+            "Option": [
+                "A.  Estimate the project team\u0027s capacity.",
+                "B.  Determine how much work can be delivered.",
+                "C.  Calculate how much work will fit into the next iteration.",
+                "D.  Estimate items in the product backlog."
+            ],
+            "Explanation": "Answer: A\n52 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 152,
+            "QuestionContent": "Midway through a sprint the scrum master identifies that reassigning a certain task could help the team meet\nits sprint goals. What should the scrum master do next?",
+            "Option": [
+                "A.  Alert the team that sprint goals might not be met and create an alternative plan",
+                "B.  Obtain team buy-in to perform modifications to the sprint backlog",
+                "C.  Have the sprint proceed as planned",
+                "D.  Ask the team to decide if the task should be reassigned"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 153,
+            "QuestionContent": "An agile team identifies that their velocity is lower than predicted, and that their previous forecasts in the\nproduct roadmap are wrong. The team is worried that they will be unable to meet a critical release date without\ncorrective action.\nWhat should the team do?",
+            "Option": [
+                "A.  Collaborate with the product owner to reprioritize the product backlog, thus ensuring that more features\nwill be completed before the release.",
+                "B.  Ask the team lead to calculate the team\u0027s target velocity according to the project plan, and assign\nadditional resources to increase capacity.",
+                "C.  Focus on velocity and schedule concerns during the retrospective to inspect, adapt, and improve the\nprocess and plans.",
+                "D.  Reestimate the backlog items from the release, ensuring that contingency is included to set stakeholder\nexpectations."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 154,
+            "QuestionContent": "A product owner complains that some of the requirements identified several Aerations ago have not been\nimplemented. The product owner wants to know why the status of these requirements was not communicated\nWhat should the Scrum Master do?",
+            "Option": [
+                "A.  Point out that the team chose to work on other requirements to speed up the project",
+                "B.  Ensure that the product owner reviews the contents of the information radiator",
+                "C.  Ensure that the next sprint planning meeting reviews the satisfaction histogram\n53 of 72Practice Test PMI - PMI-ACP",
+                "D.  Point out that it is the responsibility of the product owner to clarify requirements"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 155,
+            "QuestionContent": "During project inception an agile practitioner engages the stakeholder to ensure alignment on the project\u0027s\nstrategy and vision The stakeholder asks for detailed requirements design, and delivery plans What should the\nagile practitioner do?",
+            "Option": [
+                "A.  Provide all information requested by the stakeholder",
+                "B.  Set expectations regarding the appropriate level of details requested during this stage",
+                "C.  inform the stakeholder mat no detailed documents are provided using agile practices",
+                "D.  Ask the team to supply the information 10 the stakeholder"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 156,
+            "QuestionContent": "A globally distributed project team is using email and phone calls as the only way to share information. Delays\nin resolving issues often occur due to misinterpreted communications, leading to a lower team velocity.\nWhat steps should the project leader take to improve knowledge sharing?",
+            "Option": [
+                "A.  Meet individually with each team member to identify the issues and relay information to the remaining\nmembers through status reports.",
+                "B.  Establish a live video feed between the dispersed teams to enable spontaneous engagement and\ncollaboration on issues.",
+                "C.  Request that the customer co-locate the team to overcome the communication issues, as this is the only\nmethod to ensure agility.",
+                "D.  Inform the customer of the challenges and lower velocity of the project to accomodate for the slower\ndelivery pace."
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 157,
+            "QuestionContent": "During a mature agite team\u0027s planning meeting a team member proposes a new framework that would\nconsiderably reduce implementation lime However, the learn lacks the confidence to try the new framework\nTo help the team gain confidence what should the agile practitioner suggest1\n54 of 72Practice Test PMI - PMI-ACP",
+            "Option": [
+                "A.  Develop a spike",
+                "B.  Create an ishikawa diagram",
+                "C.  Perform a pre-mortem analysis",
+                "D.  Complete a variance and trend analysis"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 158,
+            "QuestionContent": "What should the agile practitioner know about tracking velocity?",
+            "Option": [
+                "A.  A team with an average velocity of 50 is twice as efficient as a team with an average velocity of 25.",
+                "B.  A team with an average velocity of 50 is equally as efficient as a team with an average velocity of 25.",
+                "C.  A team that consistently meets its planned velocity is more efficient than a team that consistently\nexceeds its planned velocity.",
+                "D.  A team that consistently meets its planned velocity is less efficient than a team that constantly exceeds\nits planned velocity."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 159,
+            "QuestionContent": "Team A is working on the second sprint of a product release Team B. which is an interdependent team located\non the same floor requires extensive and frequent information to complete its sprint goal What should the agile\nteam lead do?",
+            "Option": [
+                "A.  Create a central repository for information, and provide access to team B",
+                "B.  Use an information board that will be visible to an passing through the workspace",
+                "C.  Email ail stakeholders with status updates",
+                "D.  Provide team B with the information on an \u0022as needed\u0022 basis"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 160,
+            "QuestionContent": "A product owner obtains customer confirmation on product requirements and provides them to the team. After\nexplaining the user stories, the product owner receives agreement for acceptance from the team.\nWhat should the team do next?\n55 of 72Practice Test PMI - PMI-ACP",
+            "Option": [
+                "A.  Use agile estimation techniques to create a shared understanding of when the user stories will be\ncompleted.",
+                "B.  Agree upon development and testing activities for the user stories.",
+                "C.  Complete the user stories, and provide a demo for the product owner and customer.",
+                "D.  Complete the user stories, and hold a retrospective to discuss them."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 161,
+            "QuestionContent": "A company has decided to combine Iwo similar products consisting of multiple teams into one product\nEngaged customers want to know how the company is looking at re-organizing it\u0027s teams.\nWhat strategy should be employed to re-organize the teams?",
+            "Option": [
+                "A.  All the teams from both products should be simultaneously called together and allowed to completely\nself-manage",
+                "B.  Teams that worked on similar components in the separate products should be combined to minimize\ndisruption and capitalize on synergies",
+                "C.  After grouping individuals by role multi-discipline teams should be created that are comprised of one\nmember from each role",
+                "D.  Features should be prioritized and then teams should be orgainzed around those priorities"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 162,
+            "QuestionContent": "When prioritizing features to be delivered in an iteration, on what features should an agile team defer work?",
+            "Option": [
+                "A.  High-risk and high-value",
+                "B.  High-risk and low-value",
+                "C.  Low-risk and low-value",
+                "D.  Low-risk and high-value"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 163,
+            "QuestionContent": "56 of 72Practice Test PMI - PMI-ACP\nThe agile practitioner has determined that two different team members are working on addressing the same\nmajor issue on the project. How should the agile practitioner address this?",
+            "Option": [
+                "A.  Implement a burnup chart and add the issue resolution as a task to the product backlog for the customer\nto prioritize.",
+                "B.  Add the issue to the kanban board and assign the it to the team member who has made the most progress\non resolving it.",
+                "C.  Conduct a root-cause analysis on the issue and identify related risks and risk response owners at the next\nretrospective.",
+                "D.  Document all project issues in a common space and ask the team members to decide on task allocation\nprinciples."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 164,
+            "QuestionContent": "An organization highly values security However, a team member on a project has found a way to save time\nand money with less robust security features. What should the team member do?",
+            "Option": [
+                "A.  Influence the customer",
+                "B.  Mention the idea at the next retrospective",
+                "C.  Show the customer how much time and money would be saved.",
+                "D.  Present the idea at the next ceremony attended by stakeholders to obtain their input"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 165,
+            "QuestionContent": "An agile team delivered a feature in the last iteration. The product owner, who missed the planning and review\nmeetings, was dissatisfied with the feature. The team conducted a retrospective and reviewed the user stories\nrelated it.\nWhat should the agile team do next?",
+            "Option": [
+                "A.  Ensure that the product owner reviews the acceptance criteria for delivered user stories.",
+                "B.  Augment the quality assurance and continuous integration processes for delivery.",
+                "C.  Approach the relevant developers and testers regarding quality issues in upcoming iterations.",
+                "D.  Ask the product owner to define the entire scope of delivery two to three iterations in advance."
+            ],
+            "Explanation": "Answer: A\n57 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 166,
+            "QuestionContent": "An agile team and a traditional development team are working together on a project. Each team exceeds\nexpectations regarding deliverables; however, issues arise when the deliverables are integrated.\nWhat should the agile practitioner do?",
+            "Option": [
+                "A.  Foster stronger communication by hosting cross-organizational meetings between the two teams.",
+                "B.  Suggest merging the teams to avoid misunderstandings.",
+                "C.  Create stories from full technical specifications to avoid ambiguity.",
+                "D.  Co-locate the teams to encourage osmotic communication."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 167,
+            "QuestionContent": "A scrum master is part of a project team using technologies overseen by the IT department. The IT director\noversees several company initiatives and is unfamiliar with the details of each one.\nAs an active project stakeholder, to which meeting should the IT director be invited?",
+            "Option": [
+                "A.  Planning",
+                "B.  Daily scrum",
+                "C.  Sprint demo",
+                "D.  Retrospective"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 168,
+            "QuestionContent": "An executive sponsor of a new scrum team actively attends scrum ceremonies. How does this benefit the\nteam?",
+            "Option": [
+                "A.  It helps the learn to focus on and meet sprint goals",
+                "B.  It reminds the team about who sponsors the protect",
+                "C.  It provides high-level project updates to the sponsor",
+                "D.  It helps to quickly resolve issues using the sponsor\u0027s influence\n58 of 72Practice Test PMI - PMI-ACP"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 169,
+            "QuestionContent": "Stakeholders ate displeased with the latest release o! a product\u0027s software While most stakeholders attended\nevery sprint review they were otherwise largely uninvolved in the project What should the agile practitioner\nhave done to ensure stakeholder satisfaction?",
+            "Option": [
+                "A.  Communicated early and often, as outlined in the communications matrix",
+                "B.  Ensured engagement among stakeholders and the product owner",
+                "C.  Conducted additional stakeholder reviews and demos",
+                "D.  Worked with the product owner to prioritize user stories"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 170,
+            "QuestionContent": "A new product owner needs to manage the backlog of a high-visibility, fast-moving project that is consuming\na considerable amount of time. What should the product owner do?",
+            "Option": [
+                "A.  Schedule regular meetings with the scrum team to write, groom, and size user stories.",
+                "B.  Focus on stories based on the highest number of story points to first address those items with the highest\nvalue.",
+                "C.  Seek regular input from project stakeholders, and reflect this input in the backlog\u0027s priorities.",
+                "D.  Schedule in-person, monthly meetings with key stakeholders to review the project\u0027s progress."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 171,
+            "QuestionContent": "During the iteration planning of a newly onboarded agile team, the product owner adds a set of high priority\nuser stones into the iteration backlog What should the team do first to define the tasks needed to implement the\nuser stories?",
+            "Option": [
+                "A.  Self-organize",
+                "B.  Assign tasks to each team member",
+                "C.  Meet with me customer",
+                "D.  Identify the Scrum Master\n59 of 72Practice Test PMI - PMI-ACP"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 172,
+            "QuestionContent": "During a sprint review, the product owner identifies a required improvement for a feature\u0027s user interface (Ul)\ndelivered during the sprint. What should the product owner do next?",
+            "Option": [
+                "A.  Create a user story for this new improvement and put it in the product backlog for prioritization and\nvalidation by the customer.",
+                "B.  Create a user story for this new improvement and prioritize it for the next sprint.",
+                "C.  Document it as a requirement creep.",
+                "D.  Ask the team to take on additional story points to improve the Ul."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 173,
+            "QuestionContent": "The customer needs assistance m determining the efficiency of a set of process activities within the solution.\nWhat should the agile team do?",
+            "Option": [
+                "A.  Discuss the efficiency at the next iteration retrospective",
+                "B.  Review the process value stream to determine potential improvements",
+                "C.  Review the value the customer receives from the user story to determine backlog priority",
+                "D.  Discuss the performance of the solution at the next sprint review"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 174,
+            "QuestionContent": "A product owner for two highly visible projects spends a great deal of time meeting with and reporting to\nsenior stakeholders. The product owner is overwhelmed because\nboth project teams request clarification on the requirements and the overall priorities. What should the agile\nproject manager do?",
+            "Option": [
+                "A.  Provide both project teams with the highest priority needs.",
+                "B.  Request the project teams\u0027 questions in writing prior to the next meeting.",
+                "C.  Facilitate a meeting with each team and the product owner to find a solution.",
+                "D.  Provide both teams with each project\u0027s documentation.\n60 of 72Practice Test PMI - PMI-ACP"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 175,
+            "QuestionContent": "During an iteration planning meeting, the team suggests changes to add product value that will require extra\nwork and impact the schedule. What should the agile project leader do?",
+            "Option": [
+                "A.  Re-estimate the project.",
+                "B.  Finish the product as it was initially planned.",
+                "C.  Try to include as many changes as possible.",
+                "D.  Ask the product owner for approval to proceed."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 176,
+            "QuestionContent": "How should an agile project leader interact with the product owner?",
+            "Option": [
+                "A.  Conduct regular one-on-one meetings to review development features and trace them back to the\nproduct roadmap.",
+                "B.  Ensure that they attend regular sprint meetings to provide product-feature feedback.",
+                "C.  Share any new versions of the project plan with them, including updated statuses for tasks and project\nmilestones.",
+                "D.  Schedule meetings where they can provide team direction regarding new-feature priorities and\nupcoming sprints."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 177,
+            "QuestionContent": "A development team for a small company experiences long delays between product completion and release for\nvalidation and testing. The company is concerned that this will impact its ability to compete m the\nmarketplace1. What analysis should the team use to understand the issues?",
+            "Option": [
+                "A.  Risk management",
+                "B.  Variance and trend",
+                "C.  Kano model",
+                "D.  Fishbone diagram\n61 of 72Practice Test PMI - PMI-ACP"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 178,
+            "QuestionContent": "During a Kanban team\u0027s daily stand up, an agile coach observes that the team seems disinterested in the work\nstatus. While it appears that there are no issues with flow, there is a marked lack of attention to team effort.\nWhen the agile coach queries the team for reasons, members explain that work continues to be scheduled with\nno end in sight.\nWhat should the agile coach do?",
+            "Option": [
+                "A.  Work with the team to determine points at which to celebrate its work.",
+                "B.  Provide the team with a break by scheduling a team event.",
+                "C.  Have the team increase work in progress (WIP) levels to more quickly complete the flow.",
+                "D.  Rejuvenate the team by temporarily reducing WIP levels."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 179,
+            "QuestionContent": "There is a database feature requiring three members of a seven person team. A meeting is scheduled at the\nbeginning of the sprint to go over technical needs to complete the story.\nWho should the Scrum Master invite to the meeting?",
+            "Option": [
+                "A.  The core team and the customer",
+                "B.  The product owner and key stakeholders",
+                "C.  The customer and the sponsor",
+                "D.  The core team and the product owner"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 180,
+            "QuestionContent": "A new learn member asks what changes could accelerate a change to the project plan. What should be the\nproper response?",
+            "Option": [
+                "A.  Competitors joined forces with the team",
+                "B.  The customer Changed requirements",
+                "C.  Project team members obtained additional certifications\n62 of 72Practice Test PMI - PMI-ACP",
+                "D.  Technology which did not interfere with the final product"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 181,
+            "QuestionContent": "The team underestimated the complexity of a story, resulting in new decomposition of the work to be\ndelivered in the current sprint and items to be returned to the backlog. What should the Scrum Master do next?",
+            "Option": [
+                "A.  Ask the project manager to work with the product owner to help generate clearer stories in the future.",
+                "B.  Develop guidelines to prevent future occurrences.",
+                "C.  During the retrospective, discuss the issue and create an action plan to avoid it in the future.",
+                "D.  Allow the team to devise a corrective action without external intervention."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 182,
+            "QuestionContent": "What should a team consider when calculating the effort needed to complete a product backlog?",
+            "Option": [
+                "A.  The increase in velocity and cost",
+                "B.  A buffer in the sprint to mitigate unexpected risks",
+                "C.  Assigning extra points to each task to allow time for changes",
+                "D.  Stories describing infrastructure tasks and analysis tasks"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 183,
+            "QuestionContent": "A scrum master assumes a project that is essential to organizational growth. The project is expected to be in\nproduction for three years. What should the scrum master do first?",
+            "Option": [
+                "A.  Work with the customers to build the product backlog and identify their initial requirements.",
+                "B.  Meet with the stakeholders and enterprise architects to understand the project\u0027s vision.",
+                "C.  Plan and execute a sprint 0 to establish the project\u0027s foundational needs.",
+                "D.  Create a backlog, and execute a sprint 1 to quickly deliver value to the customers."
+            ],
+            "Explanation": "Answer: A\n63 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 184,
+            "QuestionContent": "An agile team is unable to complete all its planned sprint user stories, which results in a decrease of its\nplanned sprint velocity. What should the team do?",
+            "Option": [
+                "A.  Re-estimate the sprint\u0027s completed stories to increase and adjust the sprint\u0027s velocity.",
+                "B.  Increase the duration of the next sprint to accommodate the incomplete user stories and maintain\nvelocity.",
+                "C.  Work with the product owner to create a spike with another agile team.",
+                "D.  Re-estimate the incomplete stories for the next sprint because its relative size has changed."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 185,
+            "QuestionContent": "A project manager is concerned that the team has misaligned expectations with some stakeholders, and that\nuser stories were written only from a generic user\u0027s perspective. This may lead the team to miss stories for\nnon-generic users.\nWhat agile tools can help the team address these issues?",
+            "Option": [
+                "A.  Information radiators and wireframes",
+                "B.  Information radiators and story maps",
+                "C.  Process flows and personas",
+                "D.  Personas and extreme characters"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 186,
+            "QuestionContent": "How can an agile practitioner ensure that all key stakeholders are properly engaged in planning?",
+            "Option": [
+                "A.  Collect stakeholder requirements.",
+                "B.  Conduct an iteration planning meeting.",
+                "C.  Communicate product backlog items to the stakeholders.",
+                "D.  Facilitate a product development roadmap workshop."
+            ],
+            "Explanation": "Answer: D\n64 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 187,
+            "QuestionContent": "The product owner of a learn starts the iteration review with a quick walkthrough of the iteration goal, the list\nplanned stones with status, and a demo of all the stones to the business. What should the product owner have\ndone differently?",
+            "Option": [
+                "A.  Demonstrated only the completed stones and seek stakeholder feedback",
+                "B.  Presented the budget situation and review the cost variance",
+                "C.  Reviewed the test results to gem confidence from the stakeholders",
+                "D.  Presented a demo of all the stories including the work in progress stones"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 188,
+            "QuestionContent": "On what should an agile team work to achieve predictable flow?",
+            "Option": [
+                "A.  Small user stories",
+                "B.  Simple acceptance criteria",
+                "C.  Lean features",
+                "D.  Lean backlogs"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 189,
+            "QuestionContent": "A Scrum Master would like to provide information to key stakeholders on the daily resource and project\nactivities. Which tool should the Scrum Master use to provide these updates?",
+            "Option": [
+                "A.  Shared vision statement and sprint goal",
+                "B.  Release burnup chart",
+                "C.  Velocity metrics",
+                "D.  Iteration burndown chart"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 190,
+            "QuestionContent": "65 of 72Practice Test PMI - PMI-ACP\nMidway through an iteration, an agile learn learns that a team member will be unavailable for the next two\niterations As a high-performance team what should the team do?",
+            "Option": [
+                "A.  Raise an impediment that resource tasks will be blocked, and notify the product owner",
+                "B.  Ask the delivery manager tor a temporary resource",
+                "C.  Ask the scrum master to assign that team member\u0027s tasks to the next available resource",
+                "D.  Assume the team member\u0027s tasks to meet iteration goals, and notify the product owner."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 191,
+            "QuestionContent": "A team member has spent 5 days on a spike and the first set of experiments has not been successful The issue\nis the development team member has determined a short-term rather than a long-term solution.\nWhat should the project leader do?",
+            "Option": [
+                "A.  Assign the spike to another resource to continue research for the long-term solution",
+                "B.  Re-establish the spike, encourage experimentation and collaborate with the team.",
+                "C.  Stop experimentation and negotiate the short-term solution with the customer.",
+                "D.  Schedule a root-cause analysis with the development team on the mam issues with the spike"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 192,
+            "QuestionContent": "A scrum team has conducted regular retrospectives to discuss immediate concerns and the implementation of\nimprovement actions. Despite this, after a few iterations, the same concerns resurface.\nWhat should the team have done to improve retrospective outcomes?",
+            "Option": [
+                "A.  Invited subject matter experts (SMEs)",
+                "B.  Conducted problem detection to determine root causes",
+                "C.  Measured and reported the outcome of improvement actions to the team",
+                "D.  Kept track of all current issues in a log, and then reviewed their progress at the end of every iteration"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 193,
+            "QuestionContent": "66 of 72Practice Test PMI - PMI-ACP\nA key stakeholder cannot attend the project vision statement development workshop. The stakeholder has\nemailed their requirements to the agile team lead, and believes that the vision statement is not critical.\nHow should the agile team lead respond?",
+            "Option": [
+                "A.  Emphasize to the stakeholder that a common, detailed vision will better ensure team understanding of\nthe project.",
+                "B.  Personally meet with the stakeholder to understand their requirements, and then share the vision with the\nteam.",
+                "C.  Work with the team to create a vision from the stakeholder\u0027s supplied requirements.",
+                "D.  Explain to the team that creating a vision is not critical in agile projects, as requirements may change\nover time."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 194,
+            "QuestionContent": "Throughout the project, an agile practitioner notices that one team member is becoming an emergent leader.\nWhat should an agile practitioner do?",
+            "Option": [
+                "A.  Present opportunities in order to be supportive and grow that team member\u0027s talents.",
+                "B.  Encourage the team member to fit in more with the established team norms.",
+                "C.  Bring this to management\u0027s attention so they don\u0027t disrupt the team.",
+                "D.  Ask team member to respect defined roles on the project to avoid confusion with the team."
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 195,
+            "QuestionContent": "An agile coach realizes that a team responsible for a major release is a few months behind schedule The\nmarketing department is unaware of this delay and is planning to start the marketing campaign and announce\nthe release What should the agile coach do?",
+            "Option": [
+                "A.  Meet with the agile team lead to discuss ways to improve team velocity and get back on track.",
+                "B.  Use this as a learning opportunity and allow the team to hand* the situation when the marketing\ncampaign begins.",
+                "C.  In the upcoming retrospective, discuss ways to improve sharing protect status information.",
+                "D.  Meet with the marketing stakeholders to explain that the team will miss the planned release date.\n67 of 72Practice Test PMI - PMI-ACP"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 196,
+            "QuestionContent": "What role should a servant leader perform to reduce team distractions and improve progress toward project\ngoals?",
+            "Option": [
+                "A.  Managing; To ensure compliance with the project plan",
+                "B.  Mentoring: To share their knowledge with the team",
+                "C.  Controlling: To ensure compliance with the scope, budget, and schedule",
+                "D.  Auditing; To ensure adherence to organizational compliance policies"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 197,
+            "QuestionContent": "During iteration planning, it was determined that an epic should be decomposed. What was the determining\nfactor?",
+            "Option": [
+                "A.  Size and priority",
+                "B.  Minimum marketable features",
+                "C.  Release plan",
+                "D.  Sprint mapping"
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 198,
+            "QuestionContent": "As user stories are developed, what should be done to record and update acceptance criteria?",
+            "Option": [
+                "A.  Add more user stories.",
+                "B.  Use sprint retrospectives.",
+                "C.  Update current user stories.",
+                "D.  Update new tasks in the project plan."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 199,
+            "QuestionContent": "68 of 72Practice Test PMI - PMI-ACP\nDuring sprint retrospectives, some team members are very vocal and tend to dominate the conversation, while\nothers are more reserved and less likely to participate. What should the scrum master do?",
+            "Option": [
+                "A.  Encourage all team members to participate, and have them type their retrospective feedback into the\nagile lifecycle management tool.",
+                "B.  Ask more specific questions during the retrospectives.",
+                "C.  Use retrospective techniques, such as silent writing, clustering, and dot voting to field feedback prior to\ndiscussion by the team.",
+                "D.  Ask team members to email feedback that can be summarized in a spreadsheet for the team."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 200,
+            "QuestionContent": "During its first sprint a new scrum team realizes that it has insufficient team members with test automation\nskills to effectively complete its stories. What should the team do?",
+            "Option": [
+                "A.  Cross-tram some members in the automation framework to broaden their capacity with that skill",
+                "B.  Ask the product owner to add team members to boost this particular skill set",
+                "C.  Send a member to automation framework training when funds are available",
+                "D.  Avoid using test automation by swarming on the testing tasks and using manual testing"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 201,
+            "QuestionContent": "The executive leadership wants to understand ways to better deliver on time and on budget. What can the\nproject team do to assist in achieving the organizational goal?",
+            "Option": [
+                "A.  Maintain and review a lessons learned repository to improve delivery of future projects.",
+                "B.  Ask each team member to post corrective action to the backlog.",
+                "C.  Engage the project management office (PMO) to take responsibility identifying lessons learned on\nprojects.",
+                "D.  Perform a root cause analysis to identify alternative approaches for performing the next project."
+            ],
+            "Explanation": "Answer: A\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 202,
+            "QuestionContent": "69 of 72Practice Test PMI - PMI-ACP\nA member of a project\u0027s development team approaches the team lead and requests database administrator\ntraining. The team member believes that their inability to handle this work, and to rely on outside specialists is\nimpacting team velocity.\nWhat should the agile team lead do?",
+            "Option": [
+                "A.  Send the member to training",
+                "B.  Ask the outside specialists it database administration is required from the team",
+                "C.  Send one member to training only after asking the team if there is an issue with the current work flow",
+                "D.  Wait until all members of the team can attend training"
+            ],
+            "Explanation": "Answer: B\n",
+            "RightAnswer": [
+                "B"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 203,
+            "QuestionContent": "A seven-member agile team\u0027s composition vanes considerably in age, gender culture, personality type and\nprofessional background. When planning a team-building event, what type of interpersonal skills should the\nproject leader use?",
+            "Option": [
+                "A.  Networking",
+                "B.  Social awareness",
+                "C.  Communication",
+                "D.  Leadership"
+            ],
+            "Explanation": "Answer: D\n",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 204,
+            "QuestionContent": "Following an upgrade, a software support team is overwhelmed by the number of tickets being submitted by\nend users. The team\u0027s manager is pushing the team to \u0022work smart\u0022 by focusing on activities that deliver the\nmost value in the least amount of time.\nWhat should the team do?",
+            "Option": [
+                "A.  Work longer hours to complete more of the support backlog.",
+                "B.  Work support tickets in the order in which they were received.",
+                "C.  Place tickets on hold until the team completes an analysis of the backlog to identify and resolve systemic\nissues.",
+                "D.  Add members to the support team.\n70 of 72Practice Test PMI - PMI-ACP"
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 205,
+            "QuestionContent": "After completing the release plan, the team realizes that the project is very likely to have a negative ROI. What\nshould the team do?",
+            "Option": [
+                "A.  Prioritize the backlog, and remove low-priority stories from the release plan to ensure a positive ROI.",
+                "B.  Replace some team members to reduce the release costs and minimize a negative ROI.",
+                "C.  Perform a root-cause analysis to remove waste from the delivery process and increase the ROI.",
+                "D.  Communicate the risk of a negative ROI to the stakeholders, and update the release plan."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 206,
+            "QuestionContent": "During a project review, the team discovers customer feedback that would add scope. The project leader is\nconcerned that the team will be unable to incorporate this feedback and still meet the product launch date.\nWhat should the project leader do?",
+            "Option": [
+                "A.  Finalize the feedback in the form of a change request",
+                "B.  Limit the scope of the feedback to only those changes that the team can feasibly accommodate",
+                "C.  Encourage all feedback, then work with the customer to prioritize work for future sprints",
+                "D.  Allow the team to decide what feedback to incorporate."
+            ],
+            "Explanation": "Answer: C\n",
+            "RightAnswer": [
+                "C"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 207,
+            "QuestionContent": "The agile team disagrees with the business stakeholders on completing some epics. What could help eliminate\nmisunderstandings?",
+            "Option": [
+                "A.  Agree on requirements with all stakeholders",
+                "B.  Begin planning every tour iterations",
+                "C.  Consider previous sprint demo feedback when planning the next sprint",
+                "D.  Include the reasons for the project in the contract"
+            ],
+            "Explanation": "Answer: A\n71 of 72Practice Test PMI - PMI-ACP\n",
+            "RightAnswer": [
+                "A"
+            ],
+            "QuestionChoose": []
+        },
+        {
+            "QuestionNumber": 208,
+            "QuestionContent": "An agile practitioner becomes a Scrum Master on an established Scrum team. After introductions, what should\nthe agile practitioner do?",
+            "Option": [
+                "A.  Coach team members to improve functional specialties and increase overall velocity.",
+                "B.  Identify where team processes misalign with accepted Scrum practices.",
+                "C.  Facilitate the identification of problems or issues and help the team resolve them.",
+                "D.  Review the backlog to ensure that it is prioritized, refined, and properly tasked."
+            ],
+            "Explanation": "Answer: D\n72 of 72About Marks4sure.com\nmarks4sure.com was founded in 2007. We provide latest \u0026 high quality IT / Business Certification Training Exam\nQuestions, Study Guides, Practice Tests.\nWe help you pass any IT / Business Certification Exams with 100% Pass Guaranteed or Full Refund. Especially\nCisco, CompTIA, Citrix, EMC, HP, Oracle, VMware, Juniper, Check Point, LPI, Nortel, EXIN and so on.\nView list of all certification exams: All vendors\n   \n   \n   \nWe prepare state-of-the art practice tests for certification exams. You can reach us at any of the email addresses listed\nbelow.\nSales: sales@marks4sure.com\nFeedback: feedback@marks4sure.com\nSupport: support@marks4sure.com\nAny problems about IT certification or our products, You can write us back and we will get back to you within 24\nhours.",
+            "RightAnswer": [
+                "D"
+            ],
+            "QuestionChoose": []
+        }
+    ],
+    "isFinish": false,
+    "isShowExplanation": false
+}
