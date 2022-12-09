@@ -39,15 +39,15 @@
         $.getJSON('https://docamtien.github.io/acp.json', function (data) {
             var data = data.Question;
             var myarray = [];
-
+            var text = '';
             for (let i = 0; i < data.length; i++) {
-                var text = '';
+                
                 text += '<div class="'+data[i]['QuestionNumber']+' row">';
                 text += '<div class="col-md-12">';
                 var tm = 0;
 
-                // text += "<p><strong>" + data[i]['QuestionNumber'] + ") " + data[i]['QuestionContent'] + "</strong></p>";
-                text += "<p><strong>" + data[i]['QuestionContent'] + "</strong></p>";
+                text += "<p><strong>" + data[i]['QuestionNumber'] + ") " + data[i]['QuestionContent'] + "</strong></p>";
+                // text += "<p><strong>" + data[i]['QuestionContent'] + "</strong></p>";
                 var dapan1 = 9;
                 var dapan2 = 9;
                 switch (data[i]['RightAnswer'][0]) {
@@ -99,21 +99,21 @@
                 text += "<p class='right_answer'> Right Answer : <strong>" + data[i]['RightAnswer'] + "</strong></p>";
                 text += '</div>';
                 text += '</div>';
-                myarray.push(text);
+                // myarray.push(text);
 
             }
-            var arr = [];
-            while (arr.length < 219) {
-                var r = Math.floor(Math.random() * 219) + 1;
-                if (arr.indexOf(r) === -1) arr.push(r);
-            }
-            var rand_ask = '';
-            for (let k = 0; k < myarray.length; k++) {
-                rand_ask += '<p><strong>Number: '+(k+1)+'</strong></p>';
-                rand_ask += myarray[arr[k]];
-            }
+            // var arr = [];
+            // while (arr.length < 219) {
+            //     var r = Math.floor(Math.random() * 219) + 1;
+            //     if (arr.indexOf(r) === -1) arr.push(r);
+            // }
+            // var rand_ask = '';
+            // for (let k = 0; k < myarray.length; k++) {
+            //     rand_ask += '<p><strong>Number: '+(k+1)+'</strong></p>';
+            //     rand_ask += myarray[arr[k]];
+            // }
 
-            $("#content").append(rand_ask);
+            $("#content").append(text);
 
             $('input[type="checkbox"]').change(function () {
                 if ($(this).is(":checked")) {
