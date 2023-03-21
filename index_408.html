@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<body>
+    <main role="main" class="container-fluid col-md-11">
+        <form id="aws">
+
+
+            <div class="row">
+                <!-- <div class="col-md-12"> -->
+                <div class="input col-md-2">
+                    <input type="text" id="start_ask" class="form-control" placeholder="Số thứ tự câu bắt đầu"
+                        aria-label="Số thứ tự câu bắt đầu" aria-describedby="basic-addon2">
+                </div>
+                <div class="input col-md-2">
+                    <input type="text" id="end_ask" class="form-control" placeholder="Số thứ tự câu kết thúc"
+                        aria-label="Số thứ tự câu kết thúc" aria-describedby="basic-addon2">
+                </div>
+
+                <div class="col-md-1">
+                    <button type="button" id="random_ask" class="btn btn-success">Random</button>
+                </div>
+
+                <div class="col-md-1">
+                    <button type="button" id="check" class="btn btn-primary">Check</button>
+                </div>
+
+                <div class="col-md-1">
+                    <button type="button" id="uncheck" class="btn btn-warning">Uncheck</button>
+
+                </div>
+              
+                <!-- </div> -->
+            </div>
+            
+            <div id="content"></div>
+        </form>
+    </main>
+    <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script>
+
+        $("#random_ask").click(function () {
+            $("#rand_ask").remove();
+            random_ask(parseInt($("#start_ask").val()) -1, parseInt($("#end_ask").val()));
+        });
+
+        $("#check").click(function () {
+            $(".right").css({ "backgroundColor": "greenyellow" });
+
+
+        });
+        $("#uncheck").click(function () {
+            $(".right").css({ "backgroundColor": "white" });
+            $("label").css({ "backgroundColor": "white" });
+        });
+
+        function random_ask(start, end) {
+            $.getJSON('https://docamtien.github.io/aws.json', function (data) {
+                var data = data.Question;
+                var myarray = [];
+                
+                for (let i = start; i < end; i++) {
+                    var text = '';
+                    text += '<div class="' + data[i]['QuestionNumber'] + ' row">';
+                    text += '<div class="col-md-12">';
+                    var tm = 0;
+
+                    // text += "<p><strong>" + data[i]['QuestionNumber'] + ") " + data[i]['QuestionContent'] + "</strong></p>";
+                    text += "<p><strong>" + data[i]['QuestionContent'] + "</strong></p>";
+                    var dapan1 = 9;
+                    var dapan2 = 9;
+                    switch (data[i]['RightAnswer'][0]) {
+                        case "A":
+                            dapan1 = 0;
+                            break;
+                        case "B":
+                            dapan1 = 1;
+                            break;
+                        case "C":
+                            dapan1 = 2;
+                            break;
+                        case "D":
+                            dapan1 = 3;
+                            break;
+                        case "E":
+                            dapan1 = 4;
+                            break;
+                    }
+                    switch (data[i]['RightAnswer'][1]) {
+                        case "A":
+                            dapan2 = 0;
+                            break;
+                        case "B":
+                            dapan2 = 1;
+                            break;
+                        case "C":
+                            dapan2 = 2;
+                            break;
+                        case "D":
+                            dapan2 = 3;
+                            break;
+                        case "E":
+                            dapan2 = 4;
+                            break;
+                    }
+                    for (let j = 0; j < data[i]['Option'].length; j++) {
+                        dap_an_dung = '';
+                        var value = 0;
+                        if (j == dapan1 || j == dapan2) {
+                            dap_an_dung = 'right';
+                            value = 1;
+                        }
+                        tm = i + j;
+                        text += "<label id=Cau" + data[i]['QuestionNumber'] + "_" + j + " class='form-check-label " + dap_an_dung + "'>";
+                        text += "<input type='checkbox' value='" + value + "' name='type' class='form-check-input " + dap_an_dung + "' id=Cau" + data[i]['QuestionNumber'] + "_" + j + ">" + data[i]['Option'][j] + "</label><br>";
+
+                    }
+                    text += "<p class='right_answer'> Right Answer : <strong>" + data[i]['RightAnswer'] + "</strong></p>";
+                    text += '</div>';
+                    text += '</div>';
+                    myarray.push(text);
+
+                }
+                var arr = [];
+                var total = end - start;
+                while (arr.length < total) {
+                    var r = Math.floor(Math.random() * total) + 1;
+                    if (arr.indexOf(r) === -1) arr.push(r);
+                }
+                console.log(myarray);
+                console.log(arr);
+                var rand_ask = '<div id="rand_ask">';
+                for (let k = 0; k < myarray.length; k++) {
+                    rand_ask += '<p><strong>Number: ' + (k + 1) + '</strong></p>';
+                    rand_ask += myarray[arr[k]-1];
+                }
+                rand_ask += "</div>"
+                $("#content").append(rand_ask);
+
+                $('input[type="checkbox"]').change(function () {
+                    if ($(this).is(":checked")) {
+                        // alert($(this).attr('id'))
+                        // return;
+                        $("label#" + $(this).attr('id')).css({ "backgroundColor": "pink" });
+                    } else {
+                        $("label#" + $(this).attr('id')).css({ "backgroundColor": "white" });
+
+                    }
+                });
+
+            });
+        }
+
+    </script>
+    <style>
+        p.right_answer {
+            color: rgb(255, 255, 255);
+        }
+
+        /* .right{
+            background-color: greenyellow;
+        } */
+    </style>
+
+</body>
+
+</html>
